@@ -1,15 +1,21 @@
 import java.util.Scanner;
 
-public class Beekeeper{ // TODO: Figure out why I am always getting wrong answer
+public class Beekeeper{
   public static void main(String[] args) {
     Scanner reader = new Scanner(System.in);
     int n = reader.nextInt();
     while(n != 0){
       String longest = "bb";
+      int doubles = -1;
+
       for(int i = 0; i < n; i++){
         String word = reader.next();
-        if(Count(longest) < Count(word))
+        int d = Count(word);
+
+        if(d > doubles){
+          doubles = d;
           longest = word;
+        }
       }
 
       System.out.println(longest);
