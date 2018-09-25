@@ -1,3 +1,4 @@
+// Success in 0.48s
 import java.util.*;
 
 public class Trees{

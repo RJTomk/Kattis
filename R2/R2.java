@@ -1,3 +1,4 @@
+// R2 0.07s
 import java.util.Scanner;
 
 public class R2{
@@ -7,6 +8,6 @@ public class R2{
     int c = reader.nextInt();
     reader.close();
 
-    System.out.println((2 * c) - a);    
+    System.out.println((2 * c) - a);
   }
 }

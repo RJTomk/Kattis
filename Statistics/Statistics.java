@@ -1,3 +1,4 @@
+// Success in 0.08s
 import java.util.Scanner;
 
 public class Statistics{

@@ -1,3 +1,4 @@
+// Success in 0.12s
 import java.util.*;
 
 public class Everywhere{

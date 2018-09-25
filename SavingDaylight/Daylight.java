@@ -1,3 +1,4 @@
+// Saving Daylight
 import java.util.Scanner;
 
 public class Daylight{
