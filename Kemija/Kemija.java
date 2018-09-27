@@ -1,41 +1,25 @@
-import java.util.*;
+// Success in 0.07s
+import java.util.Scanner;
 
-public class Kemija{ // Gets wrong answer
+public class Kemija{
+  private static String FixWord(String word){
+    word = word.replace("apa", "a");
+    word = word.replace("epe", "e");
+    word = word.replace("ipi", "i");
+    word = word.replace("opo", "o");
+    word = word.replace("upu", "u");
+    return word;
+  }
+
   public static void main(String[] args) {
     Scanner reader = new Scanner(System.in);
+    String[] words = reader.nextLine().split(" ");
     String result = "";
 
-    while(reader.hasNext()){
-      String word = reader.next();
-      String newWord = "" + word.charAt(0);
+    for(int i = 0; i < words.length; i++)
+      result += FixWord(words[i]) + " ";
 
-      int i = 1;
-      while(i < word.length()){
-        if(word.charAt(i) == 'p' && IsVowel(word.charAt(i - 1)) && word.charAt(i - 1) == word.charAt(i + 1)){
-          i++;
-        }else{
-          newWord = newWord + word.charAt(i);
-        }
-
-        i++;
-      }
-
-      result = result + newWord + " ";
-    }
     System.out.println(result.trim());
-    reader.close();
   }
 
-  private static boolean IsVowel(char c){
-    switch(c){
-      case 'a':
-      case 'e':
-      case 'i':
-      case 'o':
-      case 'u':
-        return true;
-      default:
-        return false;
-    }
-  }
 }
