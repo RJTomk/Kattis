@@ -1,6 +1,7 @@
+// Success in 0.09s
 import java.util.*;
 
-public class Awards{ // TODO: Test
+public class Awards{
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
 		int n = reader.nextInt();

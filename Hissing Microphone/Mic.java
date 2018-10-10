@@ -1,3 +1,4 @@
+// Success in 0.07s
 import java.util.Scanner;
 
 public class Mic{
