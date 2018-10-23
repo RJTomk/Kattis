@@ -7,5 +7,5 @@ Not all answers are correct
 
 URL | Code
 --- | ---
-[Aaah!](https://open.kattis.com/problems/aaah) | [aaah](../aaah)
-[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](../apaxiaaans)
+[Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah)
+[Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans)
