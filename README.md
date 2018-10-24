@@ -10,6 +10,7 @@ Not all answers are correct
 URL | Code
 --- | ---
 [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah/Aaah.java)
+[Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](alphabetspam/Spam.java)
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans/Apaxians.java)
 [A real challenge](https://open.kattis.com/problems/areal) | [areal](areal/ARealChallenge.java)
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java)
