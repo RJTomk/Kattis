@@ -41,6 +41,7 @@ URL | Code | State
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java)  | Working
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java)  | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java)  | Working
+[Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java)  | Working
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java)  | Working
