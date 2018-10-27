@@ -51,10 +51,10 @@ URL | Code | State
 [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](pizza2/Pizza.java)  | Working
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java)  | Working
 [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](plantingtrees/Trees.java)  | Working
-[Pot](https://open.kattis.com/problems/pot) | [pot](pot)
+[Pot](https://open.kattis.com/problems/pot) | [pot](pot.java) | Working
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](quadrant/Quad.java)  | Working
-[Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java)  | Working
-[R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java)  | Working
+[Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java) | Working
+[R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java)  | Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java)  | Working
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java)  | Working
