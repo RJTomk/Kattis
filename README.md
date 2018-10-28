@@ -1,9 +1,13 @@
 # Kattis
 ### My answers to Kattis Questions
+#### All code is in java
+##### I might redo some in other languages once i finish all kattis problems
+Like that's gonna happen
 
 Not all answers are correct
   - Right answers have times
   - Wrong answers have TODOs
+
 
 ## Questions
 
