@@ -1,7 +1,7 @@
 # Kattis
 ### My answers to Kattis Questions
 #### All code is in java
-##### I might redo some in other languages once i finish all kattis problems
+##### I might redo some in other languages once I finish all Kattis problems
 Like that's gonna happen
 
 Not all answers are correct
