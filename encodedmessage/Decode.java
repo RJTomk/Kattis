@@ -1,25 +1,21 @@
-package encodedmessage;
+//Success in 0.65
 import java.util.Scanner;
+
 public class Decode {
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    int n      = sc.nextInt();
 
-    public static void main(String[] args){
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+    while(n-- > 0){
+      char[] line    = sc.next().toCharArray();
+      int sideLength = (int)Math.sqrt(line.length);
 
-        while(n-- > 0){
-            String line = sc.nextLine();
-            int sLength = (int)Math.sqrt(line.length());
-
-        }
+      for(int i = sideLength - 1; i >=0; i--)
+      for(int j = i; j < line.length; j += sideLength)
+        System.out.print(line[j]);
+      System.out.println();
     }
 
-    private static char[][] fillSquare(String line) {
-        char[][] square = new char[sLength][sLength];
-        int s = 0;
-        for(int i = 0; i < square.length; i++)
-            for(int j = 0; j < square.length; j++)
-                square[i][j] = line.charAt(s++);
-
-        return square;
-    }
+    sc.close();
+  }
 }

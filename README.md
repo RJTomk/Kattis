@@ -14,7 +14,7 @@ URL | Code | State
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans/Apaxians.java)  | Working
 [A real challenge](https://open.kattis.com/problems/areal) | [areal](areal/ARealChallenge.java)  | Working
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java)  | Working
-[Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java)  | Not Working
+[Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java)  | Working
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java)  | Working
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java)  | Working
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java)  | Working
@@ -25,6 +25,7 @@ URL | Code | State
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java)  | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java)  | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java)  | Not Working
+[Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java)  | Not Working
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java)  | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java)  | Working
@@ -37,7 +38,7 @@ URL | Code | State
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java)  | Working
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java)  | Working
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java)  | Working
-[Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java)  | Not Working
+[Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java)  | Working
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java)  | Working
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java)  | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java)  | Working
@@ -68,6 +69,7 @@ URL | Code | State
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java)  | Working
 [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](zanzibar/Zanzibar.java)  | Working
 [Statistics](https://open.kattis.com/problems/statistics) | [statistics](statistics/Statistics.java)  | Working
+[Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](stararrangements) | Working
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](timeloop/Magic.java)  | Working
 [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [sumkindofproblem](sumkindofproblem/Sum.java)  | Working
 [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](symmetricorder/Order.java)  | Not Working

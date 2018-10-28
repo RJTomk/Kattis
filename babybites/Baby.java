@@ -1,35 +1,26 @@
+// Success in 0.10s
 import java.util.Scanner;
 
-public class Baby{ // TODO: Fix
+public class Baby{
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
-		int n = reader.nextInt();
+		int n          = reader.nextInt(); reader.nextLine(); // Force it to line 2
+		String[] line  = reader.nextLine().split(" ");
+		reader.close();
 
-		for(int i = 1; i <= n; i++){
-			String cnt = reader.next();
+		if(line.length != n){
+			System.out.println("something is fishy");
+			return;
+		}
 
-			if(!isMumble(cnt)){
-				int val = Integer.parseInt(cnt);
-				if(val != i){
-					System.out.println("something is fishy" + val);
-					reader.close();
+		for(int i = 0; i < n; i++)
+			if(!line[i].equals("mumble"))
+				if(Integer.parseInt(line[i]) != i + 1){
+					System.out.println("something is fishy");
 					return;
 				}
-			}
-		}
 
 		reader.close();
 		System.out.println("makes sense");
-	}
-
-	private static boolean isMumble(String cnt){
-		char[] mumble = "mumble".toCharArray();
-		if(mumble.length != cnt.length()) return false;
-
-		for(int i = 0; i < cnt.length(); i++)
-			if(mumble[i] != cnt.charAt(i))
-				return false;
-
-		return true;
 	}
 }
