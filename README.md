@@ -80,6 +80,6 @@ URL | Code | State
 [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](twostones/Stones.java)  | Working
 [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](tarifa/Tarifa.java)  | Working
 [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](humancannonball2/Cannonball.java)  | Working
-[ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java)  | Not Working
+[ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java)  | Working
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java)  | Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java)  | Working
