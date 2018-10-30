@@ -26,12 +26,14 @@ URL | Code | State
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
+[Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Working
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java) | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Not Working
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
+[Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
