@@ -15,6 +15,7 @@ URL | Code | State
 --- | --- | ---
 [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah/Aaah.java) | Working
 [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](alphabetspam/Spam.java) | Working
+[A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](anewalphabet/Alphabet.java) | Working
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans/Apaxians.java) | Working
 [A real challenge](https://open.kattis.com/problems/areal) | [areal](areal/ARealChallenge.java) | Working
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java) | Working
@@ -55,6 +56,7 @@ URL | Code | State
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Working
 [Oddities](https://open.kattis.com/problems/oddities) | [oddities](oddities/Oddities.java) | Working
 [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Not Working
+[Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Not Working
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working
 [Parking](https://open.kattis.com/problems/parking2) | [parking2](parking2/Parking.java) | Working
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working
@@ -68,6 +70,7 @@ URL | Code | State
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working
+[Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
