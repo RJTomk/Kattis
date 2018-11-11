@@ -49,6 +49,7 @@ URL | Code | State
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Working
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working
+[Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](lastfactorialdigit/Digit.java) | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working
