@@ -66,8 +66,10 @@ URL | Code | State
 [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](pizza2/Pizza.java) | Working
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java) | Working
 [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](plantingtrees/Trees.java) | Working
+[Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](pokerhand/Poker.java) | Working
 [Pot](https://open.kattis.com/problems/pot) | [pot](pot.java) | Working
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](quadrant/Quad.java) | Working
+[Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](qaly/Life.java) | Working
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java) | Working
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
