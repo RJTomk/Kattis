@@ -24,9 +24,11 @@ URL | Code | State
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java) | Working
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working
+[Bingo Ties](https://open.kattic.com/problems/bingoties) | (bingoties)[bingoties/BingoTies.java] | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
+[Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Working
 [Datum](https://open.kattis.com/problems/datum) | [datum](datum/Datum.java) | Working
 [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Working
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java) | Working
@@ -38,6 +40,7 @@ URL | Code | State
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working
+[Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
@@ -54,6 +57,7 @@ URL | Code | State
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Working
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](lastfactorialdigit/Digit.java) | Working
+[Left and Right](https://open.kattis.com/problems/leftandright) | [leftandright](leftandright/LeftAndRight.java) | Not Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working
@@ -79,6 +83,7 @@ URL | Code | State
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working
+[Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
