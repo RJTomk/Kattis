@@ -1,17 +1,21 @@
+// Success in 0.32s
 import java.util.*;
 
-public class Area{ // TODO: Figure out calculation
+public class Area{
   public static void main(String[] args) {
-    Scanner reader = new Scanner(System.in);
+    Scanner sc = new Scanner(System.in);
+    double rad = sc.nextDouble();
+    int p      = sc.nextInt();
+    int pi     = sc.nextInt();
 
-    double radius = reader.nextDouble();
-    int totPoints = reader.nextInt();
-    int pInCircle = reader.nextInt();
+    while(rad != 0.0){
+      System.out.printf("%f %f\n", Math.PI * rad * rad, 4.0 * rad * rad * (double)pi / (double)p);
 
-    while(radius != 0 || totPoints != 0 || pInCircle != 0){
-      double realArea = radius * radius * Math.PI;
-      double guessArea;
-
+      rad = sc.nextDouble();
+      p   = sc.nextInt();
+      pi  = sc.nextInt();
     }
+
+    sc.close();
   }
 }

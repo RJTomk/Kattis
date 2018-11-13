@@ -27,17 +27,20 @@ URL | Code | State
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
+[Datum](https://open.kattis.com/problems/datum) | [datum](datum/Datum.java) | Working
 [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Working
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java) | Working
+[Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](dicecup/Dice.java) | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
-[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Not Working
+[Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
+[Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](hissingmicrophone/Mic.java) | Working
@@ -67,7 +70,8 @@ URL | Code | State
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java) | Working
 [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](plantingtrees/Trees.java) | Working
 [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](pokerhand/Poker.java) | Working
-[Pot](https://open.kattis.com/problems/pot) | [pot](pot.java) | Working
+[Pot](https://open.kattis.com/problems/pot) | [pot](pot/Pot.java) | Working
+[Ptice](https://open.kattis.com/problems/ptice) | [ptice](ptice/Ptice.java) | Working
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](quadrant/Quad.java) | Working
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](qaly/Life.java) | Working
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java) | Working
