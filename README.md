@@ -42,6 +42,7 @@ URL | Code | State
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
+[Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
@@ -96,6 +97,7 @@ URL | Code | State
 [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](stararrangements) | Working
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](timeloop/Magic.java) | Working
 [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [sumkindofproblem](sumkindofproblem/Sum.java) | Working
+[Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [sumsquareddigits](sumsquareddigits/SSD.java) | Working
 [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](symmetricorder/Order.java) | Not Working
 [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](twostones/Stones.java) | Working
 [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](tarifa/Tarifa.java) | Working
