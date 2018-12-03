@@ -60,6 +60,7 @@ URL | Code | State
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](lastfactorialdigit/Digit.java) | Working
 [Left and Right](https://open.kattis.com/problems/leftandright) | [leftandright](leftandright/LeftAndRight.java) | Not Working
+[License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Workins
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
@@ -93,6 +94,7 @@ URL | Code | State
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working
+[Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Working
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java) | Working
@@ -111,3 +113,4 @@ URL | Code | State
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working
+[Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Working
