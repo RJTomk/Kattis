@@ -20,11 +20,12 @@ URL | Code | State
 [A real challenge](https://open.kattis.com/problems/areal) | [areal](areal/ARealChallenge.java) | Working
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java) | Working
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working
+[Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Not Working
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java) | Working
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working
-[Bingo Ties](https://open.kattic.com/problems/bingoties) | (bingoties)[bingoties/BingoTies.java] | Working
+[Bingo Ties](https://open.kattic.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
@@ -40,6 +41,7 @@ URL | Code | State
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working
+[Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Not Working
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working
@@ -90,10 +92,12 @@ URL | Code | State
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working
+[Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Not Working
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Working
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java) | Working
+[Stacking Cups](https://open.kattis.com/problems/cups) | [cups](cups/Stack.java) | Not Working
 [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](zanzibar/Zanzibar.java) | Working
 [Statistics](https://open.kattis.com/problems/statistics) | [statistics](statistics/Statistics.java) | Working
 [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](stararrangements) | Working
