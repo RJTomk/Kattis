@@ -2,7 +2,7 @@
 ### My answers to Kattis Questions
 #### All code is in java
 ##### I might redo some in other languages once I finish all Kattis problems
-Like that's gonna happen
+Like *that's* gonna happen
 
 Not all answers are correct
   - Right answers have times
@@ -46,6 +46,7 @@ URL | Code | State
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
+[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Not Working
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working
@@ -63,6 +64,7 @@ URL | Code | State
 [Left and Right](https://open.kattis.com/problems/leftandright) | [leftandright](leftandright/LeftAndRight.java) | Not Working
 [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Workins
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working
+[Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working
@@ -79,6 +81,7 @@ URL | Code | State
 [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](plantingtrees/Trees.java) | Working
 [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](pokerhand/Poker.java) | Working
 [Pot](https://open.kattis.com/problems/pot) | [pot](pot/Pot.java) | Working
+[Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [provincesandgold](provincesandgold/Gold.java) | Working
 [Ptice](https://open.kattis.com/problems/ptice) | [ptice](ptice/Ptice.java) | Working
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](quadrant/Quad.java) | Working
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](qaly/Life.java) | Working
@@ -86,6 +89,7 @@ URL | Code | State
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working
+[Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Not Working
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working
 [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working
