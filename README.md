@@ -75,6 +75,7 @@ URL | Code | State
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working
 [Parking](https://open.kattis.com/problems/parking2) | [parking2](parking2/Parking.java) | Working
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working
+[Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](pauleigon/Ping.java) | Working
 [Pet](https://open.kattis.com/problems/pet) | [pet](pet/Pet.java) | Working
 [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](pizza2/Pizza.java) | Working
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java) | Working
@@ -88,6 +89,7 @@ URL | Code | State
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java) | Working
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
+[Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Not Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working
 [Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Not Working
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working
