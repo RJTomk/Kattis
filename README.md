@@ -34,6 +34,7 @@ URL | Code | State
 [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Working
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java) | Working
 [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](dicecup/Dice.java) | Working
+[Different Distances](https://open.kattis.com/open/differentdistances) | [differentdistances](differentdistances/Distance.java) | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
