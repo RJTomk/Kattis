@@ -1,19 +1,26 @@
+// Success in 0.15s
 import java.util.Scanner;
 
-public class Order{ // TODO: Fix: all wrong
+public class Order{
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 
-		int i = 0, n = sc.nextInt();
-		while(n != 0){
-			i++;
+		int n, sets = 0;
+		while((n = sc.nextInt()) != 0){
 			String[] names = new String[n];
-			for(int j = 0; j < n; j++){
-				names[j % 2 == 0 ? j / 2 : n - ((j - 1) / 2) - 1] = sc.next();
+			int lo = 0;
+			int hi = n - 1;
+
+			for(int i = 0; i < n; i++){
+				String name = sc.next();
+				if(i % 2 == 0)
+					names[lo++] = name;
+				else
+					names[hi--] = name;
 			}
 
-			System.out.println("SET " + i);
-			for(String nam : names) System.out.println(nam);
+			System.out.printf("SET %d\n", ++sets);
+			for(String name : names) System.out.println(name);
 		}
 
 		sc.close();
