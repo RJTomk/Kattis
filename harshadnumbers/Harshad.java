@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Harshad{
   public static void main(String[] args) { // TODO: Fix random wrong answer, can't figure out why
     Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
+    long n = sc.nextInt();
     sc.close();
 
     if(n == 0) {
@@ -16,11 +16,11 @@ public class Harshad{
     System.out.println(n);
   }
 
-  private static int sumOfDigits(int n){
-    int ret = 0;
+  private static long sumOfDigits(long n){
+    long ret = 0;
     while(n > 9){
       ret += n / 10;
-      n %= 10;
+      n /= 10;
     }
 
     return ret + n;

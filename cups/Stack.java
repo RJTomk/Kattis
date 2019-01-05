@@ -1,3 +1,4 @@
+// Success in 0.15
 import java.util.Scanner;
 import java.util.PriorityQueue;
 
@@ -9,12 +10,21 @@ public class Stack{
 
 		while(n-- > 0){
 			String[] data = sc.nextLine().split(" ");
-			if(data[0].matches("//d+")) queue.add(new Cup(data[1], Integer.parseInt(data[0]) / 2));
+			if(isInteger(data[0])) queue.add(new Cup(data[1], Integer.parseInt(data[0]) / 2));
+			else queue.add(new Cup(data[0], Integer.parseInt(data[1])));
 		}
 		sc.close();
 
 		Cup c = null;
 		while((c = queue.poll()) != null) System.out.println(c.colour);
+	}
+
+	private static boolean isInteger(String s){
+		for(char c : s.toCharArray())
+			if(c < '0' || c > '9')
+				return false;
+
+		return true;
 	}
 }
 
