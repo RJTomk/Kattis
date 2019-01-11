@@ -14,6 +14,7 @@ Not all answers are correct
 URL | Code | State
 --- | --- | ---
 [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah/Aaah.java) | Working
+[ACM Contest Scoring](https://open.kattis.com/problems/acm) | [acm](acm/Scoring.java) | Working
 [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](alphabetspam/Spam.java) | Working
 [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](anewalphabet/Alphabet.java) | Working
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans/Apaxians.java) | Working
@@ -37,6 +38,7 @@ URL | Code | State
 [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](dicegame/Dice.java) | Not Working
 [Different Distances](https://open.kattis.com/open/differentdistances) | [differentdistances](differentdistances/Distance.java) | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
+[DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working
