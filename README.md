@@ -1,12 +1,8 @@
 # Kattis
 ### My answers to Kattis Questions
-#### All code is in java
-##### I might redo some in other languages once I finish all Kattis problems
-Like *that's* gonna happen
+##### Most of my code is in java (some might end up being in C)
 
-Not all answers are correct
-  - Right answers have times
-  - Wrong answers have TODOs
+Not all answers are correct (Look at state column)
 
 
 ## Questions
@@ -52,6 +48,7 @@ URL | Code | State
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Not Working
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
+[Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](heirsdilemma/Heir.java) | Working
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](hissingmicrophone/Mic.java) | Working
