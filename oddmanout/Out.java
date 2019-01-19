@@ -1,24 +1,34 @@
 import java.util.*;
 
-public class Out { //TODO: Figure out why entrySet is not working
+public class Out{ //TODO: Fix
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
+		for(int i = 1; i <= N; i++){
+			int n = sc.nextInt();
+			int[] arr = new int[n];
+			ArrayList<Integer> used = new ArrayList<Integer>();
+			for(int j = 0; j < n; j++) arr[j] = sc.nextInt();
+			for(int j = 0; j < n - 1; j++){
+				
+				if(used.contains(j)) continue;
 
-		int n = sc.nextInt();
-	//	while(n-- > 0){
-		for(int i = 1; i <= n; i++){
-			int nV = sc.nextInt();
-			TreeMap map = new TreeMap<Integer, Boolean>();
-			while(nV -- > 0){
-				int val = sc.nextInt();
-				map.put(val, map.containsKey(val) ? !(Boolean)map.get(val) : false);
-			}
+				boolean found = false;
+				for(int k = j + 1; k < n; k++){
+					if(arr[j] == arr[k]){
+						found = true;
+						break;
+					}
+				}
 
-			for(Map.Entry<Integer, Boolean> entry : map.entrySet())
-				if((Boolean)entry.getValue()){
-					System.out.printf("Case #%d: %d", i, (int)entry.getKey());
+				if(found == false){
+					System.out.printf("Case #%d: %d\n", i, arr[j]);
 					break;
 				}
+				used.add(j);
+			}
 		}
+
+		sc.close();
 	}
 }

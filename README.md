@@ -24,6 +24,7 @@ URL | Code | State
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working
 [Bingo Ties](https://open.kattic.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
+[Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
 [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Working
@@ -36,7 +37,8 @@ URL | Code | State
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
-[Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
+[Encoded Message](https://open.kattis.com/problems/encodedmessage) | t[encodedmessage](encodedmessage/Decode.java) | Working
+[Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Working
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working
@@ -74,6 +76,7 @@ URL | Code | State
 [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Not Working
 [Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Not Working
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working
+[Paradox With Averages](https://open.kattis.com/problems/averageseasy) | [averageseasy](averageseasy/Iq.java) | Working
 [Parking](https://open.kattis.com/problems/parking2) | [parking2](parking2/Parking.java) | Working
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working
 [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](pauleigon/Ping.java) | Working
@@ -121,4 +124,5 @@ URL | Code | State
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working
+[Volim](https://https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Working
 [Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Working
