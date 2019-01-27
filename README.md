@@ -54,6 +54,7 @@ URL | Code | State
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](hissingmicrophone/Mic.java) | Working
+[How Many Zeros](https://open.kattis.com/problems/howmanyzeros) | [howmanyzeros](howmanyzeros/Zero.java) | Not Working
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](icpcawards/Awards.java) | Working
 [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](maptiles2/Map.java) | Working
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Working
