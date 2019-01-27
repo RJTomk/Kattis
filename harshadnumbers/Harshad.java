@@ -1,28 +1,25 @@
+// Success in 0.14s
 import java.util.Scanner;
 
 public class Harshad{
-  public static void main(String[] args) { // TODO: Fix random wrong answer, can't figure out why
+  public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    long n = sc.nextInt();
+    int n = sc.nextInt();
     sc.close();
-
-    if(n == 0) {
-      System.out.println(0);
-      return;
-    }
-
-    while(n % sumOfDigits(n) != 0) n++;
+    while(!hars(n)) n++;
 
     System.out.println(n);
   }
 
-  private static long sumOfDigits(long n){
-    long ret = 0;
-    while(n > 9){
-      ret += n / 10;
-      n /= 10;
+  private static boolean hars(int i){
+    int x = i;
+    int s = 0;
+    while(i > 9){
+      s += i % 10;
+      i /= 10;
     }
+    s += i;
 
-    return ret + n;
+    return x % s == 0;
   }
 }

@@ -48,7 +48,7 @@ URL | Code | State
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
-[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Not Working
+[Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Working
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
 [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](heirsdilemma/Heir.java) | Working
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
@@ -105,6 +105,7 @@ URL | Code | State
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Working
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Working
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working
+[Sort of Sorting](open.kattis.com/problems/sortofsorting) | [sortofsorting](sortofsorting/Sort.java) | Not Working
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Working
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java) | Working
@@ -121,8 +122,10 @@ URL | Code | State
 [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](humancannonball2/Cannonball.java) | Working
 [The Easiest Problem is This One](https://open.kattis.com/problems/easiest) | [easiest](easiest/Sum.java) | Working
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Working
+[Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not Working
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working
-[Volim](https://https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Working
+[Volim](https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Working
+[Yoda](https://open.kattis.com/problems/yoda) | [yoda](yoda/Try.java) | Not Working
 [Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Working
