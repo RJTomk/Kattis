@@ -8,7 +8,7 @@ public class ARealChallenge{
     long area = reader.nextLong();
     reader.close();
 
-    System.out.println(sideLength * 4);
     double sideLength = Math.sqrt(area);
+    System.out.println(sideLength * 4);
   }
 }

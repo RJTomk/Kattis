@@ -34,6 +34,7 @@ URL | Code | State
 [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](dicecup/Dice.java) | Working
 [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](dicegame/Dice.java) | Not Working
 [Different Distances](https://open.kattis.com/open/differentdistances) | [differentdistances](differentdistances/Distance.java) | Working
+[Digital Display](https://open.kattis.com/problems/display) | [display](display/Clock.java) | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
@@ -79,6 +80,7 @@ URL | Code | State
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working
 [Paradox With Averages](https://open.kattis.com/problems/averageseasy) | [averageseasy](averageseasy/Iq.java) | Working
 [Parking](https://open.kattis.com/problems/parking2) | [parking2](parking2/Parking.java) | Working
+[Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](parsinghex/Hex.java) | Working
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working
 [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](pauleigon/Ping.java) | Working
 [Pet](https://open.kattis.com/problems/pet) | [pet](pet/Pet.java) | Working
