@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Try{
-  public static void main(String[] args) { //TODO: Figure out what is going on with test 2
+  public static void main(String[] args) { // ODO: Figure out what is going on with test 2
     Scanner sc = new Scanner(System.in);
     char[] A = sc.next().toCharArray(), B = sc.next().toCharArray();
     int x = 0, y = 0, m = Math.min(A.length, B.length);

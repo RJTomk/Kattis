@@ -1,4 +1,4 @@
-//Success in 0.14s
+// Success in 0.14s
 import java.util.Scanner;
 
 public class Slurp{

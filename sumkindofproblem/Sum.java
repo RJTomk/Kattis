@@ -1,4 +1,4 @@
-//Success in 0.71s
+// Success in 0.71s
 import java.util.Scanner;
 
 public class Sum{

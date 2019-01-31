@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Dyslectionary{ //TODO: Figure out how to test
+public class Dyslectionary{ // ODO: Figure out how to test
 	public static void main(String[] args) {
 		Scanner reader = new Scanner(System.in);
 		ArrayList<String[]> groups = new ArrayList<String[]>();

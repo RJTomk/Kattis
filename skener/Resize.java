@@ -10,7 +10,7 @@ public class Resize{
     xs = sc.nextInt(),
     ys = sc.nextInt();
 
-    sc.nextLine(); //force line marker to catch up
+    sc.nextLine(); // orce line marker to catch up
 
     for(int i = 0; i < x; i++){
       char[] line = sc.nextLine().toCharArray();

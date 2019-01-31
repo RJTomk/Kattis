@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Problem kattis id: [*name here*](https://open.kattis.com/problems/*id*
+Problem kattis id: [*name here*](https:// pen.kattis.com/problems/*id*
 
 ## Problems
 * Discribe issue here*

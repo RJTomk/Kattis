@@ -1,4 +1,4 @@
-//Success in 0.28s
+// Success in 0.28s
 import java.util.Scanner;
 
 public class Alphabet{

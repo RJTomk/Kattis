@@ -1,4 +1,4 @@
-//Success in 0.65
+// Success in 0.65
 import java.util.Scanner;
 
 public class Decode {

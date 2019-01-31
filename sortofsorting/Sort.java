@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Sort{ //TODO: Fix someother time
+public class Sort{ // ODO: Fix someother time
   public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     int n;

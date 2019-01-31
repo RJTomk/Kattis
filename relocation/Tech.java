@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Tech{ //TODO: Takes too long
+public class Tech{ // ODO: Takes too long
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int n = sc.nextInt();

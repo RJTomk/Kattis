@@ -1,4 +1,4 @@
-//Success in 0.06s
+// Success in 0.06s
 import java.io.*;
 
 public class CheckSum{
@@ -14,22 +14,22 @@ public class CheckSum{
                     if(add >9){
                         int p = add % 10;
                         add = Math.floorDiv(add, 10);
-                        //p += add;
+                        //  += add;
                         add += p;
-                    }//if
+                    }// f
 
                     total+= add;
-                }//if
+                }// f
                 else{
                     total+= in.charAt(j)-48;
-                }//else
-            }//for j
+                }// lse
+            }// or j
             if(total%10==0){
                 System.out.println("PASS");
-            }//if
+            }// f
             else{
                 System.out.println("FAIL");
             }
-        }//for i
+        }// or i
     }
 }

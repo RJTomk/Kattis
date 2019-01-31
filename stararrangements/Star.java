@@ -1,4 +1,4 @@
-//Success in 0.09s
+// Success in 0.09s
 import java.util.Scanner;
 
 public class Star{

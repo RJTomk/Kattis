@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pig{ //TODO: Fix run-time error on last case
+public class Pig{ // ODO: Fix run-time error on last case
   private static char[] vowels = new char[]{'a', 'e', 'i', 'o', 'u'};
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);

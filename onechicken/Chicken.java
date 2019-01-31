@@ -1,4 +1,4 @@
-//Success in 0.07s
+// Success in 0.07s
 import java.util.Scanner;
 
 public class Chicken{

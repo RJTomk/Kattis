@@ -1,4 +1,4 @@
-//Success in 0.12s
+// Success in 0.12s
 import java.util.Scanner;
 
 public class Wow{

@@ -1,4 +1,4 @@
-//Success in 0.45s
+// Success in 0.45s
 import java.util.*;
 
 public class PartyGame{
@@ -17,10 +17,10 @@ public class PartyGame{
                 int[] newCards = new int[cards.length];
                 for(int i = 0; i < cards.length; i++){
                     newCards[i] = cards[cards[i]];
-                    //System.out.println(Arrays.toString(newCards) + " Inside while");
+                    // ystem.out.println(Arrays.toString(newCards) + " Inside while");
                 }
                 cards = newCards.clone();
-                //System.out.println(Arrays.toString(cards));
+                // ystem.out.println(Arrays.toString(cards));
             }
 
             boolean sorted = true;

@@ -1,4 +1,4 @@
-//Success in 0.69s
+// Success in 0.69s
 import java.util.Scanner;
 
 public class Candle{
@@ -7,7 +7,7 @@ public class Candle{
     int n = sc.nextInt();
 
     for(int i = 1; i <= n; i++){
-      sc.nextInt(); //dont care
+      sc.nextInt(); // ont care
       int days = sc.nextInt(), candles = 0;
       for(int j = 2; j < days + 2; j++)
         candles += j;

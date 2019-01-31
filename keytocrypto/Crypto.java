@@ -10,7 +10,7 @@ public class Crypto{
 
 		String res = "";
 		for(int i = 0; i < word.length(); i++){
-			char c = charSubtract(word.charAt(i), key.charAt(i)); //(char)((int)word.charAt(i) - (int)key.charAt(i) + (int)'A');
+			char c = charSubtract(word.charAt(i), key.charAt(i)); // char)((int)word.charAt(i) - (int)key.charAt(i) + (int)'A');
 			key += c;
 			res += c;
 		}
