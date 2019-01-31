@@ -106,11 +106,13 @@ URL | Code | State
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working
+[Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](simonsays/Simon.java) | Working
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Working
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Working
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working
 [Sort of Sorting](open.kattis.com/problems/sortofsorting) | [sortofsorting](sortofsorting/Sort.java) | Not Working
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working
+[Soylent](https://open.kattis.com/problems/soylent) | [soylent](soylent/Drink.java) | Working
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Working
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java) | Working
 [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](cups/Stack.java) | Working
