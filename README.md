@@ -84,6 +84,7 @@ URL | Code | State
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working
 [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](pauleigon/Ping.java) | Working
 [Pet](https://open.kattis.com/problems/pet) | [pet](pet/Pet.java) | Working
+[Pig Latin](https://open.kattis.com/problems/piglatin) | [piglatin](piglatin/Pig.java) | Not Working
 [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](pizza2/Pizza.java) | Working
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java) | Working
 [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](plantingtrees/Trees.java) | Working
