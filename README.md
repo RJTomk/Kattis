@@ -53,6 +53,7 @@ URL | Code | State
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
 [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](heirsdilemma/Heir.java) | Working
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working
+[Help a PHD](https://open.kattis.com/problems/helpaphd) | [helpaphd](helpaphd/PHD.java) | Working
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](hissingmicrophone/Mic.java) | Working
 [How Many Zeros](https://open.kattis.com/problems/howmanyzeros) | [howmanyzeros](howmanyzeros/Zero.java) | Not Working
@@ -75,7 +76,7 @@ URL | Code | State
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Working
 [Oddities](https://open.kattis.com/problems/oddities) | [oddities](oddities/Oddities.java) | Working
-[Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Not Working
+[Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Working
 [Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Not Working
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working
 [Paradox With Averages](https://open.kattis.com/problems/averageseasy) | [averageseasy](averageseasy/Iq.java) | Working
