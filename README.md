@@ -44,7 +44,7 @@ URL | Code | State
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working
-[Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Not Working
+[Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working
@@ -97,6 +97,7 @@ URL | Code | State
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](qaly/Life.java) | Working
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java) | Working
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
+[Racing around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](racingalphabet/Alpha.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
 [Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Not Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working
