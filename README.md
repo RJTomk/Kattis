@@ -105,6 +105,7 @@ URL | Code | State
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working
 [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working
+[Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Working
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working
