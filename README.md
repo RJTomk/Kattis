@@ -19,6 +19,7 @@ URL | Code | State
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working
 [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Not Working
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working
+[Beehives](https://open.kattis.com/problems/beehives) | [beehives](beehives/Bees.java) | Working
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java) | Working
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working
@@ -134,7 +135,9 @@ URL | Code | State
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not Working
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working
+[Unique Snowflakes](https://open.kattis.com/problems/snowflakes) | [snowflakes](snowflakes/Flake.java) | Not Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working
 [Volim](https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Working
+[Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](warehouse/Toys.java) | Working
 [Yoda](https://open.kattis.com/problems/yoda) | [yoda](yoda/Try.java) | Not Working
 [Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Working
