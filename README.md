@@ -75,6 +75,7 @@ URL | Code | State
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working
+[Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Tried before learning it's basically impossible on java
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Working
 [Oddities](https://open.kattis.com/problems/oddities) | [oddities](oddities/Oddities.java) | Working
 [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Working
