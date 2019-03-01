@@ -23,11 +23,11 @@ class QuickReader{
   }
 
   public float nextFloat(){
-    return Float.parseFloat(next())
+    return Float.parseFloat(next());
   }
 
   public long nextLong(){
-    return Long.parseLong(next())
+    return Long.parseLong(next());
   }
 
   public double nextDouble(){
