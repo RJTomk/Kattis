@@ -125,8 +125,10 @@ URL | Code | State
 [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](stararrangements) | Working
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](timeloop/Magic.java) | Working
 [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [sumkindofproblem](sumkindofproblem/Sum.java) | Working
+[Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [sumoftheothers](sumoftheothers/Sum.java) | Working
 [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [sumsquareddigits](sumsquareddigits/SSD.java) | Working
 [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](symmetricorder/Order.java) | Working
+[Synchronizing Lists](https://kattis.com/problems/synchronizinglists) | [synchronizinglists](synchronizinglists/List.java) | Working
 [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](twostones/Stones.java) | Working
 [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](tarifa/Tarifa.java) | Working
 [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](humancannonball2/Cannonball.java) | Working
