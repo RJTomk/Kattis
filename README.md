@@ -27,6 +27,7 @@ URL | Code | State
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
+[Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](conversationlog/Convo.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
 [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Working
 [Datum](https://open.kattis.com/problems/datum) | [datum](datum/Datum.java) | Working
@@ -50,6 +51,7 @@ URL | Code | State
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working
+[Hangman](https://open.kattis.com/problems/hangman) | [hangman](hangman/Hang.java) | Not Working
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Working
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working
 [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](heirsdilemma/Heir.java) | Working
@@ -109,6 +111,7 @@ URL | Code | State
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working
 [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Working
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working
+[Server](https://open.kattis.com/problems/server) | [server](server/Server.java) | Working
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working
 [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](simonsays/Simon.java) | Working
@@ -130,14 +133,18 @@ URL | Code | State
 [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [sumsquareddigits](sumsquareddigits/SSD.java) | Working
 [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](symmetricorder/Order.java) | Working
 [Synchronizing Lists](https://kattis.com/problems/synchronizinglists) | [synchronizinglists](synchronizinglists/List.java) | Working
+[Tai's Formula](https://open.kattis.com/problems/taisformula) | [taisformula](taisformula/Tai.java) | Working
 [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](twostones/Stones.java) | Working
 [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](tarifa/Tarifa.java) | Working
 [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](humancannonball2/Cannonball.java) | Working
 [The Easiest Problem is This One](https://open.kattis.com/problems/easiest) | [easiest](easiest/Sum.java) | Working
+[The Fox and the Owl](https://open.kattis.com/problems/foxandowl) | [foxandowl](foxandowl/Owl.java) | Not Working
+[The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](owlandfox/Fox.java) | Working
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Working
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not Working
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working
+[Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort) | [ultraquicksort](ultraquicksort/UQS.java) | Not Working
 [Unique Snowflakes](https://open.kattis.com/problems/snowflakes) | [snowflakes](snowflakes/Flake.java) | Not Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working
 [Volim](https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Working
