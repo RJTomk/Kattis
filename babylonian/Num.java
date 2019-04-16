@@ -1,31 +1,43 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
-public class Num{ // TODO: Runtime error
+public class Num{ // TODO: Wrong answer
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int n = sc.nextInt(); sc.nextLine();
 
 		while(n-- > 0){
-			String babyl = sc.nextLine();
-			String[] nums = babyl.split(",");
-
-			int sum = 0;
-			int numC = numCommas(babyl);
-
-			for(int i = 0; i < nums.length; i++)
-				sum += Integer.parseInt(nums[i]) * Math.pow(60, numC - i);
-
-			System.out.println(sum);
+			int[] digits = toDigArray(sc.nextLine());
+			System.out.println(fromSexa(digits));
 		}
 
 		sc.close();
 	}
 
-	private static int numCommas(String s){
-		int num = 0;
+	private static int[] toDigArray(String line){
+		ArrayList<Integer> ret = new ArrayList<>();
+		int v = 0;
+		for(char c : line.toCharArray()){
+			if(c == ','){
+				ret.add(v);
+				v = 0;
+			} else {
+				v *= 10;
+				v += (c - '0');
+			}
+		}
 
-		for(char c : s.toCharArray()) if(c == ',') num++;
+		ret.add(v);
 
-		return num;
+		return ret.stream().mapToInt(Integer::intValue).toArray();
+	}
+
+	private static int fromSexa(int[] digits){
+		int ret = 0;
+		for(int i = 0; i < digits.length; i++)
+			if(digits[i] > 0)
+				ret += digits[i] * Math.pow(60, digits.length - 1 - i);
+
+		return ret;
 	}
 }

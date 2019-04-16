@@ -1,34 +1,38 @@
 import java.util.Scanner;
 
-public class Pig{ // ODO: Fix run-time error on last case
-  private static char[] vowels = new char[]{'a', 'e', 'i', 'o', 'u'};
+public class Pig{
+  private static char[] vowels = {'a', 'e', 'i', 'o', 'u', 'y'};
+
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
 
     while(sc.hasNextLine()){
       String[] line = sc.nextLine().split(" ");
       for(int i = 0; i < line.length; i++){
-        if(line[i].length() == 0) continue;
-        char[] word = line[i].toCharArray();
-        if(isVowel(word[0])){
-          line[i] += "yay";
-        }else{
+        if(isAVowel(line[i], 0))
+          line[i] = String.format("%syay", line[i]);
+        else {
           int j = 1;
-          while(!isVowel(word[j])) j++;
-          String w = line[i].substring(j), s = line[i].substring(0, j);
-          line[i] = w + s + "ay";
+          while(j < line[i].length() && !isAVowel(line[i], j)) j++;
+          String a = line[i].substring(0, j), b = line[i].substring(j);
+          line[i] = String.format("%s%say", b, a);
         }
-        System.out.printf("%s%s", line[i], i != line.length - 1 ? " " : "");
       }
-      System.out.println();
+
+      String fullLine = line[0];
+      for(int i = 1; i < line.length; i++)
+        fullLine += " " + line[i];
+
+      System.out.println(fullLine);
     }
 
     sc.close();
   }
 
-  private static boolean isVowel(char c){
+  private static boolean isAVowel(String s, int i){
+    char c = s.charAt(i);
     for(char v : vowels)
-      if(v == c)
+      if(c == v)
         return true;
 
     return false;

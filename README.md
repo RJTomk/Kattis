@@ -11,6 +11,7 @@ URL | Code | State
 --- | --- | ---
 [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah/Aaah.java) | Working
 [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [acm](acm/Scoring.java) | Working
+[Alien Numbers](https://open.kattis.com/problems/aliennumbers) | [aliennumbers](aliennumbers/) | Working
 [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](alphabetspam/Spam.java) | Working
 [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](anewalphabet/Alphabet.java) | Working
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans/Apaxians.java) | Working
@@ -18,12 +19,13 @@ URL | Code | State
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java) | Working
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working
 [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Not Working
+[Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working
 [Beehives](https://open.kattis.com/problems/beehives) | [beehives](beehives/Bees.java) | Working
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java) | Working
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working
-[Bingo Ties](https://open.kattic.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working
+[Bingo Ties](https://open.kattis.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
@@ -40,7 +42,7 @@ URL | Code | State
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not Working
-[Encoded Message](https://open.kattis.com/problems/encodedmessage) | t[encodedmessage](encodedmessage/Decode.java) | Working
+[Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Working
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working
@@ -65,6 +67,7 @@ URL | Code | State
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Working
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working
+[Kaleidoscopic Palendromes](https://open.kattis.com/kaleidoscopicpalindromes) | [kaleidoscopicpalindromes](kaleidoscopicpalindromes/Palin.java) | Not Working
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Working
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Working
@@ -81,7 +84,7 @@ URL | Code | State
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Working
 [Oddities](https://open.kattis.com/problems/oddities) | [oddities](oddities/Oddities.java) | Working
 [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Working
-[Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Not Working
+[Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Working
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working
 [Paradox With Averages](https://open.kattis.com/problems/averageseasy) | [averageseasy](averageseasy/Iq.java) | Working
 [Parking](https://open.kattis.com/problems/parking2) | [parking2](parking2/Parking.java) | Working
@@ -115,6 +118,7 @@ URL | Code | State
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working
 [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](simonsays/Simon.java) | Working
+[Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](simpleaddition/Add.java) | Working
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Working
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Working
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working
@@ -149,5 +153,6 @@ URL | Code | State
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working
 [Volim](https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Working
 [Warehouse](https://open.kattis.com/problems/warehouse) | [warehouse](warehouse/Toys.java) | Working
+[Which Base is it Anyway?](https://open.kattis.com/problems/whichbase) | [whichbase](whichbase/Base.java) | Working
 [Yoda](https://open.kattis.com/problems/yoda) | [yoda](yoda/Try.java) | Not Working
 [Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Working
