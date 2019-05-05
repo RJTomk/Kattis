@@ -70,11 +70,13 @@ URL | Code | State
 [Kaleidoscopic Palendromes](https://open.kattis.com/kaleidoscopicpalindromes) | [kaleidoscopicpalindromes](kaleidoscopicpalindromes/Palin.java) | Not Working
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Working
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working
+[Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](kleptography/Klept.java) | Not Working
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Working
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](lastfactorialdigit/Digit.java) | Working
 [Left and Right](https://open.kattis.com/problems/leftandright) | [leftandright](leftandright/LeftAndRight.java) | Not Working
 [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Workins
+[Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
@@ -82,6 +84,7 @@ URL | Code | State
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working
 [Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Tried before learning it's basically impossible on java
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Working
+[Odd Gnome](https://open.kattis.com/problems/oddgnome) | [oddgnome](oddgnome/Gnoblin.java) | Working
 [Oddities](https://open.kattis.com/problems/oddities) | [oddities](oddities/Oddities.java) | Working
 [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Working
 [Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Working
@@ -99,16 +102,18 @@ URL | Code | State
 [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](pokerhand/Poker.java) | Working
 [Pot](https://open.kattis.com/problems/pot) | [pot](pot/Pot.java) | Working
 [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [provincesandgold](provincesandgold/Gold.java) | Working
+[Prsteni](https://open.kattis.com/problems/prsteni) | [prsteni](prsteni/Gear.java) | Working
 [Ptice](https://open.kattis.com/problems/ptice) | [ptice](ptice/Ptice.java) | Working
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](quadrant/Quad.java) | Working
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](qaly/Life.java) | Working
+[Quick Brown Fox](https://open.kattis.com/problems/quickbrownfox) | [quickbrownfox](quickbrownfox/Fox.java) | Working
 [Quick Estimates](https://open.kattis.com/problems/quickestimate) | [quickestimate](quickestimate/Estimate.java) | Working
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working
 [Racing around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](racingalphabet/Alpha.java) | Working
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working
 [Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Not Working
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working
-[Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Not Working
+[Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Working
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working
 [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working

@@ -1,38 +1,32 @@
+// Success in 0.20s
 import java.util.Scanner;
 
-public class Rot{ // TODO: Fix
+public class Rot {
+  private static char[] alphabet = {'A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','_','.'};
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    int n = sc.nextInt();
+    int rot;
+    while((rot = sc.nextInt()) != 0) {
+      char[] s = sc.next().toCharArray();
+      String ret = "";
 
-    while(n != 0){
-      char[] word = rotateString(sc.next()).toCharArray();
+      for (int i = s.length - 1; i >= 0; i--)
+        ret += rotate(s[i], rot);
 
-      for(int i = 0; i < word.length; i++)
-        word[i] = rotateChar(word[i], n);
-
-      System.out.println(word.toString());
-      n = sc.nextInt();
+      System.out.println(ret);
     }
 
     sc.close();
   }
 
-  private static String rotateString(String s){
-    if(s.length() <= 1) return s;
+  private static char rotate(char c, int rot) {
+    int v;
+    if (c == '_') v = 26;
+    else if (c == '.') v = 27;
+    else v = c - 'A';
 
-    return s.charAt(s.length() - 1) + rotateString(s.substring(1, s.length() - 1)) + s.charAt(0);
-  }
-
-  private static char rotateChar(char c, int n){
-    int C = c + n;
-
-    if(C > 'Z' + 2)
-      return (char)(C - 28);
-    if(C == 'Z' + 2)
-      return '.';
-    if(C == 'Z' + 1)
-      return '_';
-    return (char)C;
+    v += rot;
+    v %= 28;
+    return alphabet[v];
   }
 }
