@@ -29,6 +29,7 @@ URL | Code | State
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working
+[Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](compoundwords/Words.java) | Not Working
 [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](conversationlog/Convo.java) | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Working
 [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Working
@@ -67,6 +68,7 @@ URL | Code | State
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Working
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working
+[Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](justaminute/Train.java)
 [Kaleidoscopic Palendromes](https://open.kattis.com/kaleidoscopicpalindromes) | [kaleidoscopicpalindromes](kaleidoscopicpalindromes/Palin.java) | Not Working
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Working
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working
@@ -75,11 +77,13 @@ URL | Code | State
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](lastfactorialdigit/Digit.java) | Working
 [Left and Right](https://open.kattis.com/problems/leftandright) | [leftandright](leftandright/LeftAndRight.java) | Not Working
+[Left Beehind](https:/open.kattis.com/problems/leftbeehind) | [leftbeehind](leftbeehind/Honey.java) | Working
 [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Workins
 [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working
+[Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Not Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working
 [Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Tried before learning it's basically impossible on java
