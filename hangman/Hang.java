@@ -1,35 +1,30 @@
+// TODO: Handle repeat characters
 import java.util.Scanner;
-import java.util.Set;
 import java.util.HashSet;
 
-public class Hang{ // Passing test 2, when it should fail
+public class Hang {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
-    HashSet<Character> word = new HashSet<>();
-    fillWord(word, sc);
-    int right = 0, wrong = 0;
-    char[] guess = sc.next().toCharArray();
+    char[] word = sc.next().toCharArray();
+    char[] answer = sc.next().toCharArray();
     sc.close();
 
-    for(char g : guess) {
-      if(word.contains(g))
-        if(++right == word.size()){
-          System.out.println("WIN");
-          return;
-        }
-      else
-        if(++wrong == 10) {
-          System.out.println("LOSE");
-          return;
-        }
+    int errors = 0;
+    HashSet<Character> letters = new HashSet<Character>();
+    HashSet<Character> answers = new HashSet<Character>();
+    for(char c : word)
+      letters.add(c);
+
+    for(char c : answer){
+      if(answers.add(c)){
+        if(letters.remove(c))
+          if(letters.isEmpty()){
+            System.out.println("WIN");
+          }
+        else
+          if(++errors >= 10)
+            System.out.println("LOSE");
+      }
     }
-
-    System.out.println("LOSE");
-  }
-
-  private static void fillWord(Set<Character> word, Scanner sc){
-    char[] w = sc.next().toCharArray();
-    for(char wc : w)
-      word.add(wc);
   }
 }
