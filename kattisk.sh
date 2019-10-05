@@ -1,8 +1,6 @@
 if [[ $# -eq 3 ]]; then
   NUM_TESTS=$3
-  INPUTCODE=$1
-
-  javac "$INPUTCODE.java"
+  INPUTCODE="$1.py"
 
   for (( i = 1; i <= $NUM_TESTS; i++ )); do
     echo "Test $i"
@@ -10,7 +8,7 @@ if [[ $# -eq 3 ]]; then
     INPUTFILE="$2$i.in"
     OUTPUTFILE="$2$i.out"
 
-    java $INPUTCODE < $INPUTFILE > out.out
+    python $INPUTCODE < $INPUTFILE > out.out
 
     DIFF=$(diff -q out.out  $OUTPUTFILE)
     if [ "$DIFF" != "" ]; then
