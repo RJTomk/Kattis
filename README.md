@@ -44,6 +44,7 @@ URL | Code | State | Language
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working | Java
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working | Java
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not working | Java
+[Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](eenymeeny/Eeny.py) | Working | Python
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working | Java
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Working | Java
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working | Java
@@ -52,6 +53,7 @@ URL | Code | State | Language
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working | Java
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working | Java
+[Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.java) | Not Working | Java
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working | Java
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working | Java
