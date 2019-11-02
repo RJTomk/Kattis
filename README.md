@@ -38,7 +38,7 @@ URL | Code | State | Language
 [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Working | Java
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java) | Working | Java
 [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](dicecup/Dice.java) | Working | Java
-[Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](dicegame/Dice.java) | Not working | Java
+[Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](dicegame/Dice.java) | Working | Java
 [Different Distances](https://open.kattis.com/open/differentdistances) | [differentdistances](differentdistances/Distance.java) | Working | Java
 [Digital Display](https://open.kattis.com/problems/display) | [display](display/Clock.java) | Working | Java
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working | Java
@@ -105,6 +105,7 @@ URL | Code | State | Language
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working | Java
 [Paul Eigon](https://open.kattis.com/problems/pauleigon) | [pauleigon](pauleigon/Ping.java) | Working | Java
 [Pet](https://open.kattis.com/problems/pet) | [pet](pet/Pet.java) | Working | Java
+[Piece of Cake!](https://open.kattis.com/problems/pieceofcake2) | [pieceofcake2](pieceofcake2/Cake.py) | Working | Python
 [Pig Latin](https://open.kattis.com/problems/piglatin) | [piglatin](piglatin/Pig.java) | Not working | Java
 [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](pizza2/Pizza.java) | Working | Java
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java) | Working | Java
@@ -121,7 +122,7 @@ URL | Code | State | Language
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working | Java
 [Racing around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](racingalphabet/Alpha.java) | Working | Java
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working | Java
-[Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Not working | Java
+[Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Working | Java
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working | Java
 [Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Working | Java
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working | Java
