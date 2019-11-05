@@ -19,7 +19,7 @@ URL | Code | State | Language
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java) | Working | Java
 [Avion](https://open.kattis.com/problems/avion) | [avion](avion/Blimp.java) | Working | Java
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working | Java
-[Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Not working | Java
+[Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Working | Python
 [Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working | Java
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working | Java
 [Beehives](https://open.kattis.com/problems/beehives) | [beehives](beehives/Bees.java) | Working | Java
@@ -53,7 +53,7 @@ URL | Code | State | Language
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working | Java
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working | Java
-[Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.java) | Not Working | Java
+[Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.py) | Working | Python
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working | Java
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working | Java
