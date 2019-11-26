@@ -21,7 +21,9 @@ URL | Code | State | Language
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working | Java
 [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Working | Python
 [Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working | Java
+[Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](basketballoneonone/Ball.py) | Working | Python
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working | Java
+[Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [beavergnaw](beavergnaw/Beaver.java) | Not Working | Java
 [Beehives](https://open.kattis.com/problems/beehives) | [beehives](beehives/Bees.java) | Working | Java
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java) | Working | Java
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working | Java
@@ -161,6 +163,7 @@ URL | Code | State | Language
 [The Easiest Problem is This One](https://open.kattis.com/problems/easiest) | [easiest](easiest/Sum.java) | Working | Java
 [The Fox and the Owl](https://open.kattis.com/problems/foxandowl) | [foxandowl](foxandowl/Owl.java) | Not working | Java
 [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](owlandfox/Fox.java) | Working | Java
+[This ain't your grandpa's checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerbox) | [thisaintyourgrandpascheckerbox](thisaintyourgrandpascheckerbox/Checker.java) | Not Working | Java
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Working | Java
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not working | Java
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working | Java
