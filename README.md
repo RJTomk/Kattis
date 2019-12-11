@@ -20,6 +20,7 @@ URL | Code | State | Language
 [Avion](https://open.kattis.com/problems/avion) | [avion](avion/Blimp.java) | Working | Java
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working | Java
 [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Working | Python
+[Bacon Eggs and Spam](https://open.kattis.com/problems/baconeggsandspam) | [baconeggsandspam](baconeggsandspam/Bacon.java) | Not Working | Java
 [Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working | Java
 [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](basketballoneonone/Ball.py) | Working | Python
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working | Java
@@ -87,6 +88,7 @@ URL | Code | State | Language
 [Left Beehind](https:/open.kattis.com/problems/leftbeehind) | [leftbeehind](leftbeehind/Honey.java) | Working | Java
 [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Working | Java
 [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Working | Java
+[Lost Lineup](https://open.kattis.com/problems/lostlineup) | Not Working | Python
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working | Java
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Working | Java
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
@@ -141,6 +143,7 @@ URL | Code | State | Language
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Working | Java
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Working | Java
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working | Java
+[Some Sum](https://open.kattis.com/problems/somesum) | [somesum](somesum) | Working | Java
 [Sort of Sorting](open.kattis.com/problems/sortofsorting) | [sortofsorting](sortofsorting/Sort.java) | Not working | Java
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working | Java
 [Soylent](https://open.kattis.com/problems/soylent) | [soylent](soylent/Drink.java) | Working | Java
@@ -163,7 +166,7 @@ URL | Code | State | Language
 [The Easiest Problem is This One](https://open.kattis.com/problems/easiest) | [easiest](easiest/Sum.java) | Working | Java
 [The Fox and the Owl](https://open.kattis.com/problems/foxandowl) | [foxandowl](foxandowl/Owl.java) | Not working | Java
 [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](owlandfox/Fox.java) | Working | Java
-[This ain't your grandpa's checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerbox) | [thisaintyourgrandpascheckerbox](thisaintyourgrandpascheckerbox/Checker.java) | Not Working | Java
+[This ain't your grandpa's checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerbox) | [thisaintyourgrandpascheckerbox](thisaintyourgrandpascheckerbox/Checker.java) | Working | Java
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Working | Java
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not working | Java
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working | Java
