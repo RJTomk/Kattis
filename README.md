@@ -20,7 +20,7 @@ URL | Code | State | Language
 [Avion](https://open.kattis.com/problems/avion) | [avion](avion/Blimp.java) | Working | Java
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Working | Java
 [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Working | Python
-[Bacon Eggs and Spam](https://open.kattis.com/problems/baconeggsandspam) | [baconeggsandspam](baconeggsandspam/Bacon.java) | Not Working | Java
+[Bacon Eggs and Spam](https://open.kattis.com/problems/baconeggsandspam) | [baconeggsandspam](baconeggsandspam/Bacon.java) | Working | Python
 [Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working | Java
 [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](basketballoneonone/Ball.py) | Working | Python
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working | Java
@@ -93,6 +93,7 @@ URL | Code | State | Language
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Working | Java
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working | Java
+[Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](moscowdream/Moscow.py) | Working | Python
 [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Not working | Java
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working | Java
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working | Java
@@ -104,6 +105,7 @@ URL | Code | State | Language
 [Oktalni](https://open.kattis.com/problems/oktalni) | [oktalni](oktalni/Oktal.java) | Working | Java
 [One Chicken Per Person!](https://open.kattis.com/problems/onechicken) | [onechicken](onechicken/Chicken.java) | Working | Java
 [Paradox With Averages](https://open.kattis.com/problems/averageseasy) | [averageseasy](averageseasy/Iq.java) | Working | Java
+[Parking](https://open.kattis.com/problems/parking) | [parking](parking/Park.py) | Working | Python
 [Parking](https://open.kattis.com/problems/parking2) | [parking2](parking2/Parking.java) | Working | Java
 [Parsing Hex](https://open.kattis.com/problems/parsinghex) | [parsinghex](parsinghex/Hex.java) | Working | Java
 [Party Game](https://open.kattis.com/problems/partygame) | [partygame](partygame/PartyGame.java) | Working | Java
