@@ -88,7 +88,7 @@ URL | Code | State | Language
 [Left Beehind](https:/open.kattis.com/problems/leftbeehind) | [leftbeehind](leftbeehind/Honey.java) | Working | Java
 [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Working | Java
 [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Working | Java
-[Lost Lineup](https://open.kattis.com/problems/lostlineup) | Not Working | Python
+[Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](lostlineup/Line.py) | Not Working | Python
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working | Java
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Working | Java
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
