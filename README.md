@@ -161,7 +161,8 @@ URL | Code | State | Language
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [sumoftheothers](sumoftheothers/Sum.java) | Working | Java
 [Sum Squared Digits Function](https://open.kattis.com/problems/sumsquareddigits) | [sumsquareddigits](sumsquareddigits/SSD.java) | Working | Java
 [Symmetric Order](https://open.kattis.com/problems/symmetricorder) | [symmetricorder](symmetricorder/Order.java) | Working | Java
-[Synchronizing Lists](https://kattis.com/problems/synchronizinglists) | [synchronizinglists](synchronizinglists/List.java) | Working | Java
+[Synchronizing Lists](https://open.kattis.com/problems/synchronizinglists) | [synchronizinglists](synchronizinglists/List.java) | Working | Java
+[T9 Spelling](https://open.kattis.com/problems/t9spelling) | [t9spelling](t9spelling/Phone.py) | Working | Python
 [Tai's Formula](https://open.kattis.com/problems/taisformula) | [taisformula](taisformula/Tai.java) | Working | Java
 [Take Two Stones](https://open.kattis.com/problems/twostones) | [twostones](twostones/Stones.java) | Working | Java
 [Tarifa](https://open.kattis.com/problems/tarifa) | [tarifa](tarifa/Tarifa.java) | Working | Java
