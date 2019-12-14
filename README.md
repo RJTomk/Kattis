@@ -30,6 +30,7 @@ URL | Code | State | Language
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working | Java
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working | Java
 [Bingo Ties](https://open.kattis.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working | Java
+[Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Working | Python
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working | Java
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working | Java
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Working | Java
@@ -60,7 +61,7 @@ URL | Code | State | Language
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working | Java
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working | Java
-[Hangman](https://open.kattis.com/problems/hangman) | [hangman](hangman/Hang.java) | Not working | Java
+[Hangman](https://open.kattis.com/problems/hangman) | [hangman](hangman/Hang.java) | Working | Python
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Working | Java
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working | Java
 [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](heirsdilemma/Heir.java) | Working | Java
