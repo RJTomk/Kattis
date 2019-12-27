@@ -51,6 +51,7 @@ URL | Code | State | Language
 [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](eenymeeny/Eeny.py) | Working | Python
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working | Java
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Working | Java
+[Erase Securely](https://open.kattis.com/problems/erase) | [erase](erase/Erase.py) | Working | Python
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working | Java
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working | Java
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working | Java
@@ -65,6 +66,7 @@ URL | Code | State | Language
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Working | Java
 [Heart Rate](https://open.kattis.com/problems/heartrate) | [heartrate](heartrate/Heart.java) | Working | Java
 [Heir's Dilemma](https://open.kattis.com/problems/heirsdilemma) | [heirsdilemma](heirsdilemma/Heir.java) | Working | Java
+[Heliocentric](https://open.kattis.com/problems/heliocentric) | [heliocentric](heliocentric/Orbit.java) | Working | Java
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Working | Java
 [Help a PHD](https://open.kattis.com/problems/helpaphd) | [helpaphd](helpaphd/PHD.java) | Working | Java
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working | Java
