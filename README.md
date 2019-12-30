@@ -80,6 +80,7 @@ URL | Code | State | Language
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working | Java
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working | Java
 [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](justaminute/Train.java) | Not working | Java
+[Kafkaesque](https://open.kattis.com/problems/kafkaesque) | [kafkaesque](kafkaesque/Line.py) | Working | Python
 [Kaleidoscopic Palendromes](https://open.kattis.com/kaleidoscopicpalindromes) | [kaleidoscopicpalindromes](kaleidoscopicpalindromes/Palin.java) | Not working | Java
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Working | Java
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working | Java
