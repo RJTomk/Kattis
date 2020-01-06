@@ -1,3 +1,4 @@
+# Success in 0.05s
 notes = 'A, A#, B, C, C#, D, D#, E, F, F#, G, G#'.split(', ')
 interval = [2, 2, 1, 2, 2, 2, 1]
 
@@ -20,7 +21,11 @@ for i in range(len(notes)):
     if song.issubset(scale):
         scales.append(notes[i])
 
-out = ''
-for i in scales:
-    out += '{} '.format(i)
-print(out)
+
+if len(scales) == 0:
+    print('none')
+else:
+    out = ''
+    for i in scales:
+        out += '{} '.format(i)
+    print(out.strip())

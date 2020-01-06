@@ -49,11 +49,13 @@ URL | Code | State | Language
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working | Java
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not working | Java
 [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](eenymeeny/Eeny.py) | Working | Python
+[Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](eligibility/Compete.py) | Working | Python
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working | Java
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Working | Java
 [Erase Securely](https://open.kattis.com/problems/erase) | [erase](erase/Erase.py) | Working | Python
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working | Java
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working | Java
+[False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity/Morse.py] | Not Working | Python
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working | Java
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working | Java
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
@@ -98,7 +100,7 @@ URL | Code | State | Language
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working | Java
 [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](moscowdream/Moscow.py) | Working | Python
-[Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Not working | Java
+[Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Working | Python
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working | Java
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working | Java
 [Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Tried before learning it's basically impossible on java | Java
