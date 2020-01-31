@@ -5,6 +5,8 @@
 Not all answers are correct (Look at state column)
 
 
+The bash scripts are for testing purposes, read them to figure them out. Really spaghetti coded so I apologize in advance...
+
 ## Questions
 
 URL | Code | State | Language
@@ -24,7 +26,7 @@ URL | Code | State | Language
 [Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working | Java
 [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](basketballoneonone/Ball.py) | Working | Python
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working | Java
-[Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [beavergnaw](beavergnaw/Beaver.java) | Not Working | Java
+[Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [beavergnaw](beavergnaw/Beaver.java) | Working | Python
 [Beehives](https://open.kattis.com/problems/beehives) | [beehives](beehives/Bees.java) | Working | Java
 [Beekeeper](https://open.kattis.com/problems/beekeeper) | [beekeeper](beekeeper/Beekeeper.java) | Working | Java
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working | Java
@@ -138,6 +140,7 @@ URL | Code | State | Language
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working | Java
 [Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Working | Java
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working | Java
+[Riječi](https://open.kattis.com/problems/rijeci) | [rijeci](rijeci/Bab.py) | Not Working | Python
 [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working | Java
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working | Java
 [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Working | Java
