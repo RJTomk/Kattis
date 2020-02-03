@@ -128,6 +128,7 @@ URL | Code | State | Language
 [Pot](https://open.kattis.com/problems/pot) | [pot](pot/Pot.java) | Working | Java
 [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [provincesandgold](provincesandgold/Gold.java) | Working | Java
 [Prsteni](https://open.kattis.com/problems/prsteni) | [prsteni](prsteni/Gear.java) | Working | Java
+[Prva](https://open.kattis.com/problems/prva) | [prva](prva/Cross.py) | Not Working | Python
 [Ptice](https://open.kattis.com/problems/ptice) | [ptice](ptice/Ptice.java) | Working | Java
 [Quadrant Selection](https://open.kattis.com/problems/quadrant) | [quadrant](quadrant/Quad.java) | Working | Java
 [Quality-Adjusted Life-Year](https://open.kattis.com/problems/qaly) | [qaly](qaly/Life.java) | Working | Java
