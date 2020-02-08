@@ -17,8 +17,8 @@ public class Zoo{
 			}
 
 			System.out.printf("List %d:\n", nList++);
-			for(Map.Entry<String, Integer> animal : zoo.entrySet())
-				System.out.printf("%s | %d\n", animal.getKey(), animal.getValue());
+//			for(Map.Entry<String, Integer> animal : zoo.entrySet())
+//				System.out.printf("%s | %d\n", animal.getKey(), animal.getValue());
 
 			nItems = reader.nextInt();
 			reader.nextLine();
