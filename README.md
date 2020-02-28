@@ -100,6 +100,7 @@ URL | Code | State | Language
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working | Java
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Working | Java
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
+[Mjehuric](https://open.kattis.com/problems/mjehuric) | [mjehuric](mjehuric/Swap.py) | Working | Python
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Working | Java
 [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](moscowdream/Moscow.py) | Working | Python
 [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Working | Python
@@ -144,8 +145,10 @@ URL | Code | State | Language
 [Riječi](https://open.kattis.com/problems/rijeci) | [rijeci](rijeci/Bab.py) | Not Working | Python
 [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working | Java
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working | Java
+[Saving For Retirement](https://opoen.kattis.com/problems/savingforretirement) | [savingforretirement](savingforretirement/Save.py) | Working | Python
 [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Working | Java
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working | Java
+[Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](secretmessage/Secret.py) | Working | Python
 [Secure Doors](https://open.kattis.com/problems/securedoors) | [securedoors](securedoors/Door.java) | Working | Java
 [Server](https://open.kattis.com/problems/server) | [server](server/Server.java) | Working | Java
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working | Java
@@ -154,6 +157,7 @@ URL | Code | State | Language
 [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](simpleaddition/Add.java) | Working | Java
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Working | Java
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Working | Java
+[Soft Passwords](https://open.kattis.com/problems/softpasswords) | [softpasswords](softpasswords/Pass.py) | Working | Python
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working | Java
 [Some Sum](https://open.kattis.com/problems/somesum) | [somesum](somesum) | Working | Java
 [Sort of Sorting](open.kattis.com/problems/sortofsorting) | [sortofsorting](sortofsorting/Sort.java) | Not working | Java
