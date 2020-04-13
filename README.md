@@ -24,6 +24,7 @@ URL | Code | State | Language
 [Babylonian Numbers](https://open.kattis.com/problems/babylonian) | [babylonian](babylonian/Num.java) | Working | Python
 [Bacon Eggs and Spam](https://open.kattis.com/problems/baconeggsandspam) | [baconeggsandspam](baconeggsandspam/Bacon.java) | Working | Python
 [Basic Remains](https://open.kattis.com/problems/basicremains) | [basicremains](basicremains/Remains.java) | Working | Java
+[Basic Programming 2](https://open.kattis.com/problems/basicprogramming2) | [basicprogramming2](basicprogramming2/Test.py) | Not Working | Python
 [Basketball One-on-One](https://open.kattis.com/problems/basketballoneonone) | [basketballoneonone](basketballoneonone/Ball.py) | Working | Python
 [Batter Up](https://open.kattis.com/problems/batterup) | [batterup](batterup/Bat.java) | Working | Java
 [Beavergnaw](https://open.kattis.com/problems/beavergnaw) | [beavergnaw](beavergnaw/Beaver.java) | Working | Python
@@ -32,6 +33,7 @@ URL | Code | State | Language
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working | Java
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working | Java
 [Bingo Ties](https://open.kattis.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working | Java
+[Broken Swords](https://open.kattis.com/problems/brokenswords) | [brokenswords](brokenswords/Sword.py)| Working | Python
 [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Working | Python
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working | Java
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working | Java
@@ -145,7 +147,7 @@ URL | Code | State | Language
 [Riječi](https://open.kattis.com/problems/rijeci) | [rijeci](rijeci/Bab.py) | Not Working | Python
 [Run-Length Encoding, Run!](https://open.kattis.com/problems/runlengthencodingrun) | [runlengthencodingrun](runlengthencodingrun/RunLengthEncoding.java) | Working | Java
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Working | Java
-[Saving For Retirement](https://opoen.kattis.com/problems/savingforretirement) | [savingforretirement](savingforretirement/Save.py) | Working | Python
+[Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](savingforretirement/Save.py) | Working | Python
 [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Working | Java
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working | Java
 [Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](secretmessage/Secret.py) | Working | Python
