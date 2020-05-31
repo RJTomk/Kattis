@@ -150,6 +150,7 @@ URL | Code | State | Language
 [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](savingforretirement/Save.py) | Working | Python
 [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Working | Java
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Working | Java
+[School Spirit](https://open.kattis.com/problems/schoolspirit) | [schoolspirit](schoolspirit/ItsMe.py) | Working | Python
 [Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](secretmessage/Secret.py) | Working | Python
 [Secure Doors](https://open.kattis.com/problems/securedoors) | [securedoors](securedoors/Door.java) | Working | Java
 [Server](https://open.kattis.com/problems/server) | [server](server/Server.java) | Working | Java
@@ -190,6 +191,7 @@ URL | Code | State | Language
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not working | Java
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working | Java
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working | Java
+[Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](tripletexting/Text.py) | Working | Pythons
 [Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort) | [ultraquicksort](ultraquicksort/UQS.java) | Not working | Java
 [Unique Snowflakes](https://open.kattis.com/problems/snowflakes) | [snowflakes](snowflakes/Flake.java) | Not working | Java
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working | Java
