@@ -60,6 +60,7 @@ URL | Code | State | Language
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Working | Java
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Working | Java
 [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](falsesecurity/Morse.py) | Not Working | Python
+[Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](fiftyshades/Shirt.py) | Working | Python
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working | Java
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working | Java
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
