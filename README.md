@@ -89,6 +89,7 @@ URL | Code | State | Language
 [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](justaminute/Train.java) | Not working | Java
 [Kafkaesque](https://open.kattis.com/problems/kafkaesque) | [kafkaesque](kafkaesque/Line.py) | Working | Python
 [Kaleidoscopic Palendromes](https://open.kattis.com/kaleidoscopicpalindromes) | [kaleidoscopicpalindromes](kaleidoscopicpalindromes/Palin.java) | Not working | Java
+[Karte](https://open.kattis.com/problems/karte) | [karte](karte/Card.py) | Working | Python
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Working | Java
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working | Java
 [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](kleptography/Klept.java) | Not working | Java
