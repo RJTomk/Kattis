@@ -53,6 +53,7 @@ URL | Code | State | Language
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working | Java
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not working | Java
 [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](eenymeeny/Eeny.py) | Working | Python
+[Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](electricaloutlets/Power.py) | Working | Python
 [Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](eligibility/Compete.py) | Working | Python
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Working | Java
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Working | Java
@@ -66,8 +67,9 @@ URL | Code | State | Language
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working | Java
 [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.py) | Working | Python
-[Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working | Java
+[Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
+[Greetings!](https://open.kattis.com/problems/greetings2) | [greetings2](greetings2/Hey.py) | Working | Python
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working | Java
 [Hangman](https://open.kattis.com/problems/hangman) | [hangman](hangman/Hang.java) | Working | Python
 [Harshad Numbers](https://open.kattis.com/problems/harshadnumbers) | [harshadnumbers](harshadnumbers/Harshad.java) | Working | Java
