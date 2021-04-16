@@ -64,6 +64,7 @@ URL | Code | State | Language
 [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](fiftyshades/Shirt.py) | Working | Python
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Working | Java
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Working | Java
+[Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](forcedchoice/Puff.py) | Working | Python
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working | Java
 [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.py) | Working | Python
@@ -80,6 +81,7 @@ URL | Code | State | Language
 [Help a PHD](https://open.kattis.com/problems/helpaphd) | [helpaphd](helpaphd/PHD.java) | Working | Java
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Working | Java
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](hissingmicrophone/Mic.java) | Working | Java
+[Homework](https://open.kattis.com/heimavinna) | [heimavinna](heimavinna/Homework.py) | Working | Python
 [Honour Thy (Apaxian) Parent](https://open.kattis.com/problems/apaxianparent) | [apaxianparent](apaxianparent/Parent.py) | Working | Python
 [Hot Hike](https://open.kattis.com/problems/hothike) | [hothike](hothike/Hike.java) | Working | Java
 [How Many Zeros](https://open.kattis.com/problems/howmanyzeros) | [howmanyzeros](howmanyzeros/Zero.java) | Not working | Java
@@ -87,6 +89,7 @@ URL | Code | State | Language
 [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](maptiles2/Map.java) | Working | Java
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Working | Java
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working | Java
+[Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](jackolanternjuxtaposition/Jacko.py) | Working | Python
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working | Java
 [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](justaminute/Train.java) | Not working | Java
 [Kafkaesque](https://open.kattis.com/problems/kafkaesque) | [kafkaesque](kafkaesque/Line.py) | Working | Python
@@ -145,6 +148,7 @@ URL | Code | State | Language
 [Racing around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](racingalphabet/Alpha.java) | Working | Java
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working | Java
 [Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Working | Java
+[Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](ofugsnuid/Reverse.py) | Working | Python
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working | Java
 [Reverse Rot](https://open.kattis.com/problems/reverserot) | [reverserot](reverserot/Rot.java) | Working | Java
 [Roaming Romans](https://open.kattis.com/problems/romans) | [romans](romans/Roman.java) | Working | Java
@@ -176,6 +180,7 @@ URL | Code | State | Language
 [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](zanzibar/Zanzibar.java) | Working | Java
 [Statistics](https://open.kattis.com/problems/statistics) | [statistics](statistics/Statistics.java) | Working | Java
 [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](stararrangements) | Working | Java
+[Stopwatch](https://open.kattis.com/problems/stopwatch) | [stopwatch](stopwatch/Stop.py) | Working | Python
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](timeloop/Magic.java) | Working | Java
 [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [sumkindofproblem](sumkindofproblem/Sum.java) | Working | Java
 [Sum of the Others](https://open.kattis.com/problems/sumoftheothers) | [sumoftheothers](sumoftheothers/Sum.java) | Working | Java
