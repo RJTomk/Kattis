@@ -91,6 +91,7 @@ URL | Code | State | Language
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working | Java
 [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](jackolanternjuxtaposition/Jacko.py) | Working | Python
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working | Java
+[Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](jumbojavelin/Jave.java) | Working | Java
 [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](justaminute/Train.java) | Not working | Java
 [Kafkaesque](https://open.kattis.com/problems/kafkaesque) | [kafkaesque](kafkaesque/Line.py) | Working | Python
 [Kaleidoscopic Palendromes](https://open.kattis.com/kaleidoscopicpalindromes) | [kaleidoscopicpalindromes](kaleidoscopicpalindromes/Palin.java) | Not working | Java
@@ -100,6 +101,7 @@ URL | Code | State | Language
 [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](kleptography/Klept.java) | Not working | Java
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Working | Java
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working | Java
+[Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](laptopsticker/Sticker.py) | Working | Python
 [Last Factorial Digit](https://open.kattis.com/problems/lastfactorialdigit) | [lastfactorialdigit](lastfactorialdigit/Digit.java) | Working | Java
 [Left and Right](https://open.kattis.com/problems/leftandright) | [leftandright](leftandright/LeftAndRight.java) | Not working | Java
 [Left Beehind](https:/open.kattis.com/problems/leftbeehind) | [leftbeehind](leftbeehind/Honey.java) | Working | Java
@@ -163,6 +165,7 @@ URL | Code | State | Language
 [Secure Doors](https://open.kattis.com/problems/securedoors) | [securedoors](securedoors/Door.java) | Working | Java
 [Server](https://open.kattis.com/problems/server) | [server](server/Server.java) | Working | Java
 [Seven Wonders](https://open.kattis.com/problems/sevenwonders) | [sevenwonders](sevenwonders/Wonders.java) | Working | Java
+[Shattered Cake](https://open.kattis.com/problems/shatteredcake) | [shatteredcake](shatteredcake/Cake.java) | Working | Java
 [Sibice](https://open.kattis.com/problems/sibice) | [sibice](sibice/Sibice.java) | Working | Java
 [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](simonsays/Simon.java) | Working | Java
 [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](simpleaddition/Add.java) | Working | Java
