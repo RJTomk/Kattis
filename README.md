@@ -69,6 +69,7 @@ URL | Code | State | Language
 [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](forcedchoice/Puff.py) | Working | Python
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Working | Java
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Working | Java
+[FYI](https://open.kattis.com/problems/fyi) | [fyi](fyi/Phone.py) | Working | Python
 [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.py) | Working | Python
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working | Java
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
@@ -111,6 +112,7 @@ URL | Code | State | Language
 [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Working | Java
 [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](lostlineup/Line.py) | Not Working | Python
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working | Java
+[Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](mirror/Cam.py) | Working | Python
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Working | Java
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
 [Mjehuric](https://open.kattis.com/problems/mjehuric) | [mjehuric](mjehuric/Swap.py) | Working | Python
@@ -180,6 +182,7 @@ URL | Code | State | Language
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working | Java
 [Soylent](https://open.kattis.com/problems/soylent) | [soylent](soylent/Drink.java) | Working | Java
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Working | Java
+[Speeding](https://open.kattis.com/problems/speeding) | [speeding](speeding/Speed.java) | Working | Java
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java) | Working | Java
 [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](cups/Stack.java) | Working | Java
 [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](zanzibar/Zanzibar.java) | Working | Java
