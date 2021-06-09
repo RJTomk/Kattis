@@ -12,6 +12,7 @@ The bash scripts are for testing purposes, read them to figure them out. Really 
 URL | Code | State | Language
 --- | --- | --- | --
 [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah/Aaah.java) | Working | Java
+[Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](addtwonumbers/Add.java) | Working | Java
 [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [acm](acm/Scoring.java) | Working | Java
 [Alien Numbers](https://open.kattis.com/problems/aliennumbers) | [aliennumbers](aliennumbers/) | Working | Java
 [Alphabet Spam](https://open.kattis.com/problems/alphabetspam) | [alphabetspam](alphabetspam/Spam.java) | Working | Java
@@ -153,6 +154,7 @@ URL | Code | State | Language
 [R2](https://open.kattis.com/problems/r2) | [r2](r2/R2.java) | Working | Java
 [Racing around the Alphabet](https://open.kattis.com/problems/racingalphabet) | [racingalphabet](racingalphabet/Alpha.java) | Working | Java
 [Railroad](https://open.kattis.com/problems/railroad2) | [railroad2](railroad2/Railroad.java) | Working | Java
+[Rating Problems](https://open.kattis.com/problems/ratingproblems) | [ratingproblems](ratingproblems/Rate.java) | Working | Java
 [Relocation](https://open.kattis.com/problems/relocation) | [relocation](relocation/Tech.java) | Working | Java
 [Reverse](https://open.kattis.com/problems/ofugsnuid) | [ofugsnuid](ofugsnuid/Reverse.py) | Working | Python
 [Reversed Binary Numbers](https://open.kattis.com/problems/reversebinary) | [reversebinary](reversebinary/Binary.java) | Working | Java
