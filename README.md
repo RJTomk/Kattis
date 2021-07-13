@@ -54,6 +54,7 @@ URL | Code | State | Language
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Working | Java
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Working | Java
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Not working | Java
+[Echo Echo Echo](https://open.kattis.com/probelsm/echoechoecho) | [echoechoecho](echoechoecho/Echo.java) | Working | Java
 [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](eenymeeny/Eeny.py) | Working | Python
 [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](electricaloutlets/Power.py) | Working | Python
 [Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](eligibility/Compete.py) | Working | Python
@@ -113,6 +114,7 @@ URL | Code | State | Language
 [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Working | Java
 [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](lostlineup/Line.py) | Not Working | Python
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Working | Java
+[Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](magictrick/Magic.py) | Working | Python
 [Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](mirror/Cam.py) | Working | Python
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Working | Java
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Working | Java
