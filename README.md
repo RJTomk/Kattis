@@ -183,6 +183,7 @@ URL | Code | State | Language
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working | Java
 [Some Sum](https://open.kattis.com/problems/somesum) | [somesum](somesum) | Working | Java
 [Sort of Sorting](open.kattis.com/problems/sortofsorting) | [sortofsorting](sortofsorting/Sort.java) | Not working | Java
+[Sort Two Numbers](open.kattis.com/problems/sorttwonumbers) | [sorttwonumbers](sorttwonumbers/Number.py) | Working | Python
 [Solving for Carrots](https://open.kattis.com/problems/carrots) | [carrots](carrots/Carrots.java) | Working | Java
 [Soylent](https://open.kattis.com/problems/soylent) | [soylent](soylent/Drink.java) | Working | Java
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Working | Java
@@ -210,6 +211,7 @@ URL | Code | State | Language
 [This ain't your grandpa's checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerbox) | [thisaintyourgrandpascheckerbox](thisaintyourgrandpascheckerbox/Checker.java) | Working | Java
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Working | Java
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not working | Java
+[Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](transitwoes/Bus.py) | Working | Python
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working | Java
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working | Java
 [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](tripletexting/Text.py) | Working | Pythons
