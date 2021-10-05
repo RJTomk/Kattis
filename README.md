@@ -178,6 +178,7 @@ URL | Code | State | Language
 [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](simonsays/Simon.java) | Working | Java
 [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](simpleaddition/Add.java) | Working | Java
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Working | Java
+[SMIL](https://open.kattis.com/problems/smil) | [smil](smil/SMIL.py) | Working | Python
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Working | Java
 [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [softpasswords](softpasswords/Pass.py) | Working | Python
 [Sok](https://open.kattis.com/problems/sok) | [sok](sok/Sok.java) | Working | Java
@@ -211,6 +212,7 @@ URL | Code | State | Language
 [This ain't your grandpa's checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerbox) | [thisaintyourgrandpascheckerbox](thisaintyourgrandpascheckerbox/Checker.java) | Working | Java
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Working | Java
 [Touch Screen Keyboard](https://open.kattis.com/problems/touchscreenkeyboard) | [touchscreenkeyboard](touchscreenkeyboard/Key.java) | Not working | Java
+[Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](Tower.py) | Working | Python
 [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](transitwoes/Bus.py) | Working | Python
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working | Java
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working | Java
