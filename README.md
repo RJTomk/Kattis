@@ -95,6 +95,7 @@ URL | Code | State | Language
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Working | Java
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working | Java
 [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](jackolanternjuxtaposition/Jacko.py) | Working | Python
+[Joint Jog Jam](jointjogjam) | [jointjogjam](jointjogjam/Jog.java) | Working | Java
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working | Java
 [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](jumbojavelin/Jave.java) | Working | Java
 [Just a Minute](https://open.kattis.com/problems/justaminute) | [justaminute](justaminute/Train.java) | Not working | Java
@@ -104,6 +105,7 @@ URL | Code | State | Language
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Working | Java
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Working | Java
 [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](kleptography/Klept.java) | Not working | Java
+[Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | [knowknowledge](knotknowledge/Scout.java) | Working | Java
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Working | Java
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Working | Java
 [Laptop Sticker](https://open.kattis.com/problems/laptopsticker) | [laptopsticker](laptopsticker/Sticker.py) | Working | Python
