@@ -47,6 +47,7 @@ URL | Code | State | Language
 [Datum](https://open.kattis.com/problems/datum) | [datum](datum/Datum.java) | Working | Java
 [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Working | Java
 [Detailed Differences](https://open.kattis.com/problems/detaileddifferences) | [detaileddifferences](detaileddifferences/Differences.java) | Working | Java
+[Digit Swap](https://open.kattis.com/problems/digitswap) | [digitswap](digitswap/Swap.py) | Working | Python
 [Dice Cup](https://open.kattis.com/problems/dicecup) | [dicecup](dicecup/Dice.java) | Working | Java
 [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](dicegame/Dice.java) | Working | Java
 [Different Distances](https://open.kattis.com/open/differentdistances) | [differentdistances](differentdistances/Distance.java) | Working | Java
@@ -127,7 +128,9 @@ URL | Code | State | Language
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Working | Java
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Working | Java
 [Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Tried before learning it's basically impossible on java | Java
+[N-sum](https://open.kattis.com/problems/nsum) | [nsum](nsum/Add.py) | Working | Python
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Working | Java
+[Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](oddecho/Echo.py) | Working | Java
 [Odd Gnome](https://open.kattis.com/problems/oddgnome) | [oddgnome](oddgnome/Gnoblin.java) | Working | Java
 [Oddities](https://open.kattis.com/problems/oddities) | [oddities](oddities/Oddities.java) | Working | Java
 [Odd Man Out](https://open.kattis.com/problems/oddmanout) | [oddmanout](oddmanout/Out.java) | Working | Java
@@ -217,8 +220,10 @@ URL | Code | State | Language
 [Tower Construction](https://open.kattis.com/problems/tornbygge) | [tornbygge](Tower.py) | Working | Python
 [Transit Woes](https://open.kattis.com/problems/transitwoes) | [transitwoes](transitwoes/Bus.py) | Working | Python
 [Tri](https://open.kattis.com/problems/tri) | [tri](tri/Tri.java) | Working | Java
+[Triangle Area](https://open.kattis.com/problems/triarea) | [triarea](triarea/Area.py) | Working | Python
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Working | Java
-[Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](tripletexting/Text.py) | Working | Pythons
+[Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](tripletexting/Text.py) | Working | Python
+[Two-sum](https://open.kattis.com/problems/twosum) | [twosum](twosum/Add.py) |  Working | Python
 [Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort) | [ultraquicksort](ultraquicksort/UQS.java) | Not working | Java
 [Unique Snowflakes](https://open.kattis.com/problems/snowflakes) | [snowflakes](snowflakes/Flake.java) | Not working | Java
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Working | Java
