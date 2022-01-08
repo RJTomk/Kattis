@@ -36,6 +36,7 @@ URL | Code | State | Language
 [Bingo Ties](https://open.kattis.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working | Java
 [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](boatparts/Boat.py) | Working | Python
 [Broken Swords](https://open.kattis.com/problems/brokenswords) | [brokenswords](brokenswords/Sword.py)| Working | Python
+[Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](pyramids/Pyramid.java) | Working | Java
 [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Working | Python
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working | Java
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Working | Java
@@ -75,6 +76,7 @@ URL | Code | State | Language
 [FYI](https://open.kattis.com/problems/fyi) | [fyi](fyi/Phone.py) | Working | Python
 [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.py) | Working | Python
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Working | Java
+[Grading](https://open.kattis.com/probelms/grading) | [grading](grading/Grade.py) | Working | Python
 [Grass Seed Inc.](https://open.kattis.com/problems/grassseed) | [grassseed](grassseed/Seed.java) | Working | Java
 [Greetings!](https://open.kattis.com/problems/greetings2) | [greetings2](greetings2/Hey.py) | Working | Python
 [Hanging Out on the Terrace](https://open.kattis.com/problems/hangingout) | [hangingout](hangingout/Terrace.java) | Working | Java
