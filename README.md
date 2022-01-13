@@ -1,6 +1,6 @@
 # Kattis
 ### My answers to Kattis Questions
-##### Most of my code is in java but some is python. Check language column to see
+#### Most of my code is in java but some is python. Check language column to see
 
 Not all answers are correct (Look at state column)
 
@@ -34,8 +34,10 @@ URL | Code | State | Language
 [Bela](https://open.kattis.com/problems/bela) | [bela](bela/Bela.java) | Working | Java
 [Bijele](https://open.kattis.com/problems/bijele) | [bijele](bijele/Chess.java) | Working | Java
 [Bingo Ties](https://open.kattis.com/problems/bingoties) | [bingoties](bingoties/BingoTies.java) | Working | Java
+[Birthday Memorisation](https://open.kattis.com/problems/fodelsedagsmemorisering) | [fodelsedagsmemorisering](fodelsedagsmemorisering/Birth.py) | Working | Python
 [Boat Parts](https://open.kattis.com/problems/boatparts) | [boatparts](boatparts/Boat.py) | Working | Python
 [Broken Swords](https://open.kattis.com/problems/brokenswords) | [brokenswords](brokenswords/Sword.py)| Working | Python
+[Bus](https://open.kattis.com/problems/bus) | [bus](bus/Bus.py) | Working | Python
 [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](pyramids/Pyramid.java) | Working | Java
 [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Working | Python
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Working | Java
@@ -98,6 +100,7 @@ URL | Code | State | Language
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Working | Java
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Working | Java
 [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](jackolanternjuxtaposition/Jacko.py) | Working | Python
+[Janitor Troubles](https://open.kattis.com/problems/janitortroubles) | [janitortroubles](janitortroubles/Stein.py) | Working | Python
 [Joint Jog Jam](jointjogjam) | [jointjogjam](jointjogjam/Jog.java) | Working | Java
 [Judging Moose](https://open.kattis.com/problems/judgingmoose) | [judgingmoose](judgingmoose/Meese.java) | Working | Java
 [Jumbo Javelin](https://open.kattis.com/problems/jumbojavelin) | [jumbojavelin](jumbojavelin/Jave.java) | Working | Java
