@@ -19,6 +19,7 @@ URL | Code | Language | Status
 [A New Alphabet](https://open.kattis.com/problems/anewalphabet) | [anewalphabet](anewalphabet/Alphabet.java) | Java | Working 
 [Apaxiaaaaaaaaaaaans!](https://open.kattis.com/problems/apaxiaaans) | [apaxiaaans](apaxiaaans/Apaxians.java) | Java | Working 
 [A real challenge](https://open.kattis.com/problems/areal) | [areal](areal/ARealChallenge.java) | Java | Working 
+[Arrangement](https://open.kattis.com/problems/upprodun) | [upprodun](upprodun/Team.java) | Java | Working
 [Autori](https://open.kattis.com/problems/autori) | [autori](Autori.java) | Java | Working 
 [Avion](https://open.kattis.com/problems/avion) | [avion](avion/Blimp.java) | Java | Working 
 [Baby Bites](https://open.kattis.com/problems/babybites) | [babybites](babybites/Baby.java) | Java | Working 
@@ -218,6 +219,7 @@ URL | Code | Language | Status
 [The Amazing Human Cannonball](https://open.kattis.com/problems/humancannonball2) | [humancannonball2](humancannonball2/Cannonball.java) | Java | Working 
 [The Easiest Problem is This One](https://open.kattis.com/problems/easiest) | [easiest](easiest/Sum.java) | Java | Working 
 [The Fox and the Owl](https://open.kattis.com/problems/foxandowl) | [foxandowl](foxandowl/Owl.java) | Java | Not working 
+[The Last Problem](https://open.kattis.com/problems/thelastproblem) | [thelastproblem](thelastproblem/Brony.java) | Java | Working
 [The Owl and the Fox](https://open.kattis.com/problems/owlandfox) | [owlandfox](owlandfox/Fox.java) | Java | Working 
 [This ain't your grandpa's checkerboard](https://open.kattis.com/problems/thisaintyourgrandpascheckerbox) | [thisaintyourgrandpascheckerbox](thisaintyourgrandpascheckerbox/Checker.java) | Java | Working 
 [ToLower](https://open.kattis.com/problems/tolower) | [tolower](tolower/ToLower.java) | Java | Working 
