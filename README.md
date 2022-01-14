@@ -90,6 +90,7 @@ URL | Code | Language | Status
 [Heliocentric](https://open.kattis.com/problems/heliocentric) | [heliocentric](heliocentric/Orbit.java) | Java | Working 
 [Hello World](https://open.kattis.com/problems/hello) | [hello](hello/Hello.java) | Java | Working 
 [Help a PHD](https://open.kattis.com/problems/helpaphd) | [helpaphd](helpaphd/PHD.java) | Java | Working 
+[Help Me With The Game](https:open.kattis.com/problems/helpme) | [helpme](helpme/Chess.py) | Python | Working
 [Herman](https://open.kattis.com/problems/herman) | [herman](herman/Herman.java) | Java | Working 
 [Hissing Microphone](https://open.kattis.com/problems/hissingmicrophone) | [hissingmicrophone](hissingmicrophone/Mic.java) | Java | Working 
 [Homework](https://open.kattis.com/heimavinna) | [heimavinna](heimavinna/Homework.py) | Python | Working 
