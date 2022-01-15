@@ -63,6 +63,7 @@ URL | Code | Language | Status
 [Eeny Meeny](https://open.kattis.com/problems/eenymeeny) | [eenymeeny](eenymeeny/Eeny.py) | Python | Working 
 [Electrical Outlets](https://open.kattis.com/problems/electricaloutlets) | [electricaloutlets](electricaloutlets/Power.py) | Python | Working 
 [Eligibility](https://open.kattis.com/problems/eligibility) | [eligibility](eligibility/Compete.py) | Python | Working 
+[Emag Eht Htiw Em Pleh](https://open.kattis.com/problems/empleh) | [empleh](empleh/Ssehc.py) | Python | Working
 [Encoded Message](https://open.kattis.com/problems/encodedmessage) | [encodedmessage](encodedmessage/Decode.java) | Java | Working 
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Java | Working 
 [Erase Securely](https://open.kattis.com/problems/erase) | [erase](erase/Erase.py) | Python | Working 
