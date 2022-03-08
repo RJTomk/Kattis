@@ -73,11 +73,13 @@ URL | Code | Language | Status
 [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](fiftyshades/Shirt.py) | Python | Working 
 [Filip](https://open.kattis.com/problems/filip) | [filip](filip/Filip.java) | Java | Working 
 [Final Exam](https://open.kattis.com/problems/finalexam) | [finalexam](finalexam/Exam.java) | Java | Working 
+[Finding An A](https://open.kattis.com/problems/findingana) | [findingana](findingana/A.py) | Python | Working
 [FizzBuzz](https://open.kattis.com/problems/fizzbuzz) | [fizzbuzz](fizzbuzz/Fizzbuzz.java) | Java | Working 
 [Forced Choice](https://open.kattis.com/problems/forcedchoice) | [forcedchoice](forcedchoice/Puff.py) | Python | Working 
 [Free Food](https://open.kattis.com/problems/freefood) | [freefood](freefood/Food.java) | Java | Working 
 [Froggie](https://open.kattis.com/problems/froggie) | [froggie](froggie/Froggie.java) | Java | Working 
 [FYI](https://open.kattis.com/problems/fyi) | [fyi](fyi/Phone.py) | Python | Working 
+[GCVWR](https://open.kattis.com/problems/gcvwr) | [gcvwr](gcvwr/Trailer.py) | Python | Working
 [Gerrymandering](https://open.kattis.com/problems/gerrymandering) | [gerrymandering](gerrymandering/Gerry.py) | Python | Working 
 [Goat Rope](https://open.kattis.com/problems/goatrope) | [goatrope](goatrope/Goat.java) | Java | Working 
 [Grading](https://open.kattis.com/probelms/grading) | [grading](grading/Grade.py) | Python | Working 
