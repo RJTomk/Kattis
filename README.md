@@ -47,6 +47,7 @@ URL | Code | Language | Status
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Java | Working
 [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](compoundwords/Words.java) | Java | Not Working
 [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](conversationlog/Convo.java) | Java | Working
+[Count the Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](countthevowels/Vowel.py) | Python | Working
 [Cpr-nummer](https://open.kattis.com/problems/cpr-nummer) | [cprnummer](cprnummer/Cpr.py) | Python | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Java | Working
 [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Java | Working
@@ -127,7 +128,7 @@ URL | Code | Language | Status
 [Left Beehind](https:/open.kattis.com/problems/leftbeehind) | [leftbeehind](leftbeehind/Honey.java) | Java | Working
 [License To Launch](https://open.kattis.com/problems/licensetolaunch) | [licensetolaunch](licensetolaunch/Launch.java) | Java | Working
 [Line Them Up](https://open.kattis.com/problems/lineup) | [lineup](lineup/Line.java) | Java | Working
-[Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](lostlineup/Line.py) | Python | Not Working
+[Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](lostlineup/Line.py) | Python | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Java | Working
 [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](magictrick/Magic.py) | Python | Working
 [Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](mirror/Cam.py) | Python | Working
