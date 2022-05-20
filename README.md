@@ -71,6 +71,7 @@ URL | Code | Language | Status
 [Enlarging Hashtables](https://open.kattis.com/problems/enlarginghashtables) | [enlarginghashtables](enlarginghashtables/Prime.java) | Java | Working
 [Erase Securely](https://open.kattis.com/problems/erase) | [erase](erase/Erase.py) | Python | Working
 [Estimating the Area of a Circle](https://open.kattis.com/problems/estimatingtheareaofacircle) | [estimatingtheareaofacircle](estimatingtheareaofacircle/Area.java) | Java | Working
+[Eye of Sauron](https://open.kattis.com/problems/eyeofsauron) | [eyeofsauron](eyeofsauron/Eye.py) | Python | Working
 [Faktor](https://open.kattis.com/problems/faktor) | [faktor](faktor/Faktor.java) | Java | Working
 [False Sense of Security](https://open.kattis.com/problems/falsesecurity) | [falsesecurity](falsesecurity/Morse.py) | Python | Not Working
 [Fifty Shades of Pink](https://open.kattis.com/problems/fiftyshades) | [fiftyshades](fiftyshades/Shirt.py) | Python | Working
@@ -196,6 +197,7 @@ URL | Code | Language | Status
 [Simon Says](https://open.kattis.com/problems/simonsays) | [simonsays](simonsays/Simon.java) | Java | Working
 [Simple Addition](https://open.kattis.com/problems/simpleaddition) | [simpleaddition](simpleaddition/Add.java) | Java | Working
 [Skener](https://open.kattis.com/problems/skener) | [skener](skener/Rsize.java) | Java | Working
+[Skru op!](https://open.kattis.com/problems/skruop) | [skruop](skruop/Volume.py) | Python | Working
 [SMIL](https://open.kattis.com/problems/smil) | [smil](smil/SMIL.py) | Python | Working
 [Soda Surpler](https://open.kattis.com/problems/sodasurpler) | [sodasurpler](sodasurpler/Slurp.java) | Java | Working
 [Soft Passwords](https://open.kattis.com/problems/softpasswords) | [softpasswords](softpasswords/Pass.py) | Python | Working
@@ -238,6 +240,7 @@ URL | Code | Language | Status
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Java | Working
 [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](tripletexting/Text.py) | Python | Working
 [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](twosum/Add.py) | Python |  Working
+[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](ultimatebinarywatch/Watch.py) | Python | Working 
 [Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort) | [ultraquicksort](ultraquicksort/UQS.java) | Java | Not Working
 [Unique Snowflakes](https://open.kattis.com/problems/snowflakes) | [snowflakes](snowflakes/Flake.java) | Java | Not Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Java | Working
