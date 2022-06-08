@@ -44,6 +44,7 @@ URL | Code | Language | Status
 [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Python | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Java | Working
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Java | Working
+[Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [codetosavelives](codetosavelives/Lives.py) | Python | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Java | Working
 [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](compoundwords/Words.java) | Java | Not Working
 [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](conversationlog/Convo.java) | Java | Working
@@ -186,6 +187,7 @@ URL | Code | Language | Status
 [Saving Daylight](https://open.kattis.com/problems/savingdaylight) | [savingdaylight](savingdaylight/Daylight.java) | Java | Working
 [Saving For Retirement](https://open.kattis.com/problems/savingforretirement) | [savingforretirement](savingforretirement/Save.py) | Python | Working
 [Saving Princess Peach](https://open.kattis.com/problems/princesspeach) | [princesspeach](princesspeach/Mario.java) | Java | Working
+[Scaling Recipe](https://open.kattis.com/problems/scalingrecipe) | [scalingrecipe](scalingrecipe/Food.py) | Python | Working
 [Scaling Recipes](https://open.kattis.com/problems/recipes) | [recipes](recipes/Recipe.java) | Java | Working
 [School Spirit](https://open.kattis.com/problems/schoolspirit) | [schoolspirit](schoolspirit/ItsMe.py) | Python | Working
 [Secret Message](https://open.kattis.com/problems/secretmessage) | [secretmessage](secretmessage/Secret.py) | Python | Working
@@ -210,6 +212,7 @@ URL | Code | Language | Status
 [Spavanac](https://open.kattis.com/problems/spavanac) | [spavanac](spavanac/Spavanac.java) | Java | Working
 [Speeding](https://open.kattis.com/problems/speeding) | [speeding](speeding/Speed.java) | Java | Working
 [Speed Limit](https://open.kattis.com/problems/speedlimit) | [speedlimit](speedlimit/SpeedLimit.java) | Java | Working
+[Square Peg](https://open.kattis.com/problems/squarepeg) | [squarepeg](squarepeg/Peg.py) | Python | Working
 [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](cups/Stack.java) | Java | Working
 [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](zanzibar/Zanzibar.java) | Java | Working
 [Statistics](https://open.kattis.com/problems/statistics) | [statistics](statistics/Statistics.java) | Java | Working
@@ -250,4 +253,5 @@ URL | Code | Language | Status
 [Which is Greater?](https://open.kattis.com/problems/whichisgreater) | [whichisgreater](whichisgreater/Great.py) | Python | Working
 [Yoda](https://open.kattis.com/problems/yoda) | [yoda](yoda/Try.java) | Java | Not Working
 [Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Java | Working
+[Zoom](https://open.kattis.com/problems/zoom) | [zoom](zoom/Zoom.py) | Java | Working
 
