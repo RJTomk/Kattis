@@ -139,6 +139,7 @@ URL | Code | Language | Status
 [Mjehuric](https://open.kattis.com/problems/mjehuric) | [mjehuric](mjehuric/Swap.py) | Python | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Java | Working
 [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](moscowdream/Moscow.py) | Python | Working
+[Mult!](https://open.kattis.com/problems/mult) | [mult](mult/Mult.py) | Python | Working
 [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Python | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Java | Working
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Java | Working
