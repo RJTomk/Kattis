@@ -1,0 +1,1 @@
+print('satisfactory' if int(input().split()[0]) >= 8 else 'unsatisfactory')

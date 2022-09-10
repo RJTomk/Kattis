@@ -49,6 +49,7 @@ URL | Code | Language | Status
 [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](compoundwords/Words.java) | Java | Not Working
 [Conversation Log](https://open.kattis.com/problems/conversationlog) | [conversationlog](conversationlog/Convo.java) | Java | Working
 [Count the Vowels](https://open.kattis.com/problems/countthevowels) | [countthevowels](countthevowels/Vowel.py) | Python | Working
+[Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](countingclauses/Clause.py) | Python | Working
 [Cpr-nummer](https://open.kattis.com/problems/cpr-nummer) | [cprnummer](cprnummer/Cpr.py) | Python | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Java | Working
 [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Java | Working
@@ -60,6 +61,7 @@ URL | Code | Language | Status
 [Dice Game](https://open.kattis.com/problems/dicegame) | [dicegame](dicegame/Dice.java) | Java | Working
 [Different Distances](https://open.kattis.com/open/differentdistances) | [differentdistances](differentdistances/Distance.java) | Java | Working
 [Digital Display](https://open.kattis.com/problems/display) | [display](display/Clock.java) | Java | Working
+[Double Password](https://open.kattis.com/open/doublepassword) | [doublepassword](doublepassword/Pass.py) | Python | Working
 [Driver's Dilemma](https://open.kattis.com/problems/driversdilemma) | [driversdilemma](driversdilemma/DriversDilemma.java) | Java | Working
 [DRM Messages](https://open.kattis.com/open/drmmessages) | [drmmessages](drmmessages/DRM.java) | Java | Working
 [Dyslectionary](https://open.kattis.com/problems/dyslectionary) | [dyslectionary](dyslectionary/Dyslectionary.java) | Java | Not Working
