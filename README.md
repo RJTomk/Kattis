@@ -166,6 +166,7 @@ URL | Code | Language | Status
 [Pizza Crust](https://open.kattis.com/problems/pizza2) | [pizza2](pizza2/Pizza.java) | Java | Working
 [Planina](https://open.kattis.com/problems/planina) | [planina](planina/Planina.java) | Java | Working
 [Planting Trees](https://open.kattis.com/problems/plantingtrees) | [plantingtrees](plantingtrees/Trees.java) | Java | Working
+[Pokechat](https://open.kattis.com/problems/pokechat) | [pokechat](pokechat/Pika.py) | Python | Working
 [Poker Hand](https://open.kattis.com/problems/pokerhand) | [pokerhand](pokerhand/Poker.java) | Java | Working
 [Pot](https://open.kattis.com/problems/pot) | [pot](pot/Pot.java) | Java | Working
 [Provinces and Gold](https://open.kattis.com/problems/provincesandgold) | [provincesandgold](provincesandgold/Gold.java) | Java | Working
