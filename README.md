@@ -135,6 +135,7 @@ URL | Code | Language | Status
 [Lost Lineup](https://open.kattis.com/problems/lostlineup) | [lostlineup](lostlineup/Line.py) | Python | Working
 [Luhn's Checksum Algorithm](https://open.kattis.com/problems/luhnchecksum) | [luhnchecksum](luhnchecksum/CheckSum.java) | Java | Working
 [Magic Trick](https://open.kattis.com/problems/magictrick) | [magictrick](magictrick/Magic.py) | Python | Working
+[Metronome](https://open.kattis.com/problems/metronome) | [metronome](metronome/tick.py) | Python | Working
 [Mirror Images](https://open.kattis.com/problems/mirror) | [mirror](mirror/Cam.py) | Python | Working
 [Missing Numbers](https://open.kattis.com/problems/missingnumbers) | [missingnumbers](missingnumbers/Numbers.java) | Java | Working
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Java | Working
