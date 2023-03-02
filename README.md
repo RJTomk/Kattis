@@ -44,6 +44,7 @@ URL | Code | Language | Status
 [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Python | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Java | Working
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Java | Working
+[Class Field Trip](https://open.kattis.com/problems/classfieldtrip) | [classfieldtrip](classfieldtrip/Class.py) | Python | Working
 [Code to Save Lives](https://open.kattis.com/problems/codetosavelives) | [codetosavelives](codetosavelives/Lives.py) | Python | Working
 [Cold-puter Science](https://open.kattis.com/problems/cold) | [cold](cold/Weather.java) | Java | Working
 [Compound Words](https://open.kattis.com/problems/compoundwords) | [compoundwords](compoundwords/Words.java) | Java | Not Working
@@ -52,6 +53,7 @@ URL | Code | Language | Status
 [Counting Clauses](https://open.kattis.com/problems/countingclauses) | [countingclauses](countingclauses/Clause.py) | Python | Working
 [Cpr-nummer](https://open.kattis.com/problems/cpr-nummer) | [cprnummer](cprnummer/Cpr.py) | Python | Working
 [Cryptographer's Conundrum](https://open.kattis.com/problems/conundrum) | [conundrum](conundrum/Conundrum.java) | Java | Working
+[Cut the Negativity](https://open.kattis.com/problems/cutthenegativity) | [cutthenegativity](cutthenegativity/Fly.py) | Python | Working
 [Das Blinkenlights](https://open.kattis.com/problems/dasblinkenlights) | [dasblinkenlights](dasblinkenlights/DasBlinkenlights) | Java | Working
 [Datum](https://open.kattis.com/problems/datum) | [datum](datum/Datum.java) | Java | Working
 [Death Knight Hero](https://open.kattis.com/problems/deathknight) | [deathknight](deathknight/Wow.java) | Java | Working
