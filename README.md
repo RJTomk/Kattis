@@ -41,6 +41,7 @@ URL | Code | Language | Status
 [Broken Swords](https://open.kattis.com/problems/brokenswords) | [brokenswords](brokenswords/Sword.py) | Python | Working
 [Bus](https://open.kattis.com/problems/bus) | [bus](bus/Bus.py) | Python | Working
 [Building Pyramids](https://open.kattis.com/problems/pyramids) | [pyramids](pyramids/Pyramid.java) | Java | Working
+[Canadians, eh?](https://open.kattis.com/problems/canadianseh)  |[canadianseh](canadianseh/Maple.java) | Java | Working
 [Card Trick](https://open.kattis.com/problems/cardtrick2) | [cardtrick2](cardtrick2/Card.py) | Python | Working
 [Cetvrta](https://open.kattis.com/problems/cetvrta) | [cetvrta](cetvrta/Cetvrta.java) | Java | Working
 [Chanukah](https://open.kattis.com/problems/chanukah) | [chanukah](chanukah/Candle.java) | Java | Working
@@ -222,8 +223,9 @@ URL | Code | Language | Status
 [Square Peg](https://open.kattis.com/problems/squarepeg) | [squarepeg](squarepeg/Peg.py) | Python | Working
 [Stacking Cups](https://open.kattis.com/problems/cups) | [cups](cups/Stack.java) | Java | Working
 [Stand on Zanzibar](https://open.kattis.com/problems/zanzibar) | [zanzibar](zanzibar/Zanzibar.java) | Java | Working
-[Statistics](https://open.kattis.com/problems/statistics) | [statistics](statistics/Statistics.java) | Java | Working
 [Star Arrangements](https://open.kattis.com/problems/stararrangements) | [stararrangements](stararrangements) | Java | Working
+[Statistics](https://open.kattis.com/problems/statistics) | [statistics](statistics/Statistics.java) | Java | Working
+[Sticky Keys](https://open.kattis.com/problems/stickykeys) | [stickykeys](stickykeys/Gooey.py) | Python | Working
 [Stopwatch](https://open.kattis.com/problems/stopwatch) | [stopwatch](stopwatch/Stop.py) | Python | Working
 [Stuck in a Time Loop](https://open.kattis.com/problems/timeloop) | [timeloop](timeloop/Magic.java) | Java | Working
 [Sum Kind of Problem](https://open.kattis.com/problems/sumkindofproblem) | [sumkindofproblem](sumkindofproblem/Sum.java) | Java | Working
@@ -261,4 +263,3 @@ URL | Code | Language | Status
 [Yoda](https://open.kattis.com/problems/yoda) | [yoda](yoda/Try.java) | Java | Not Working
 [Zamka](https://open.kattis.com/problems/zamka) | [zamka](zamka/Zamka.java) | Java | Working
 [Zoom](https://open.kattis.com/problems/zoom) | [zoom](zoom/Zoom.py) | Java | Working
-
