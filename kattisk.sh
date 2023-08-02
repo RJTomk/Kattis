@@ -8,7 +8,7 @@ if [[ $# -eq 3 ]]; then
     INPUTFILE="$2$i.in"
     OUTPUTFILE="$2$i.out"
 
-    python $INPUTCODE < $INPUTFILE > out.out
+    python3 $INPUTCODE < $INPUTFILE > out.out
 
     DIFF=$(diff -q out.out  $OUTPUTFILE)
     if [ "$DIFF" != "" ]; then
