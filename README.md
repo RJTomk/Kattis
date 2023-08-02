@@ -1,16 +1,17 @@
 # Kattis
-### My answers to Kattis Questions
-#### Most of my code is in java but some is python. Check language column to see
+
+ My answers to Kattis Questions
+
+**Most of my code is in java but some is python. Check language column to see**
 
 Not all answers are correct (Look at state column)
-
 
 The bash scripts are for testing purposes, read them to figure them out. Really spaghetti coded so I apologize in advance...
 
 ## Questions
 
 URL | Code | Language | Status
---- | --- | -- | --- 
+--- | --- | -- | ---
 [Aaah!](https://open.kattis.com/problems/aaah) | [aaah](aaah/Aaah.java) | Java | Working
 [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) | [addtwonumbers](addtwonumbers/Add.java) | Java | Working
 [ACM Contest Scoring](https://open.kattis.com/problems/acm) | [acm](acm/Scoring.java) | Java | Working
@@ -112,6 +113,7 @@ URL | Code | Language | Status
 [How Many Zeros](https://open.kattis.com/problems/howmanyzeros) | [howmanyzeros](howmanyzeros/Zero.java) | Java | Not Working
 [ICPC Awards](https://open.kattis.com/problems/icpcawards) | [icpcawards](icpcawards/Awards.java) | Java | Working
 [Identifying Map Tiles](https://open.kattis.com/problems/maptiles2) | [maptiles2](maptiles2/Map.java) | Java | Working
+[International Dates](https///open.kattis.com/problems/internationaldates) | [internationaldates](internationaldates/Date.py) | Python | Working
 [Is it halloween](https://open.kattis.com/problems/isithalloween) | [isithalloween](isithalloween/Hallo.java) | Java | Working
 [I've Been Everywhere, Man](https://open.kattis.com/problems/everywhere) | [everywhere](everywhere/Everywhere.java) | Java | Working
 [Jack-O'-Lantern Juxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | [jackolanternjuxtaposition](jackolanternjuxtaposition/Jacko.py) | Python | Working
@@ -126,6 +128,7 @@ URL | Code | Language | Status
 [Kemija](https://open.kattis.com/problems/kemija08) | [kemija08](kemija08/Kemija.java) | Java | Working
 [Key to Cryptography](https://open.kattis.com/problems/keytocrypto) | [keytocrypto](keytocrypto/Crypto.java) | Java | Working
 [Kleptography](https://open.kattis.com/problems/kleptography) | [kleptography](kleptography/Klept.java) | Java | Not Working
+[Knight Packing](https://open.kattis.com/problems/knightpacking) | [knightpacking](knightpacking/Knight.py) | Python | Working
 [Knot Knowledge](https://open.kattis.com/problems/knotknowledge) | [knowknowledge](knotknowledge/Scout.java) | Java | Working
 [Kornislav](https://open.kattis.com/problems/kornislav) | [kornislav](kornislav/Kornislav.java) | Java | Working
 [Ladder](https://open.kattis.com/problems/ladder) | [ladder](ladder/Ladder.java) | Java | Working
@@ -144,12 +147,13 @@ URL | Code | Language | Status
 [Mixed Fractions](https://open.kattis.com/problems/mixedfractions) | [mixedfractions](mixedfractions/Fractions.java) | Java | Working
 [Mjehuric](https://open.kattis.com/problems/mjehuric) | [mjehuric](mjehuric/Swap.py) | Python | Working
 [Modulo](https://open.kattis.com/problems/modulo) | [modulo](modulo/Modulo.java) | Java | Working
+[Monopoly](https://open.kattis.com/problems/monopol) | [monopo](monopol/Stache.py) | Python | Working
 [Moscow Dream](https://open.kattis.com/problems/moscowdream) | [moscowdream](moscowdream/Moscow.py) | Python | Working
 [Mult!](https://open.kattis.com/problems/mult) | [mult](mult/Mult.py) | Python | Working
 [Musical Scales](https://open.kattis.com/problems/musicalscales) | [musicalscales](musicalscales/Scales.java) | Python | Working
 [Nasty Cacks](https://open.kattis.com/problems/nastyhacks) | [nastyhacks](nastyhacks/Hacks.java) | Java | Working
 [No Duplicates](https://open.kattis.com/problems/nodup) | [nodup](nodup/Duplicates.java) | Java | Working
-[Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Java | Tried before learning it's basically impossible on java 
+[Non-Prime Factors](https://open.kattis.com/problems/nonprimefactors) | [nonprimefactors](nonprimefactors/NonPrime.java) | Java | Tried before learning it's basically impossible on java
 [N-sum](https://open.kattis.com/problems/nsum) | [nsum](nsum/Add.py) | Python | Working
 [Number Fun](https://open.kattis.com/problems/numberfun) | [numberfun](numberfun/Number.java) | Java | Working
 [Odd Echo](https://open.kattis.com/problems/oddecho) | [oddecho](oddecho/Echo.py) | Java | Working
@@ -252,8 +256,9 @@ URL | Code | Language | Status
 [Trik](https://open.kattis.com/problems/trik) | [trik](trik/Trik.java) | Java | Working
 [Triple Texting](https://open.kattis.com/problems/tripletexting) | [tripletexting](tripletexting/Text.py) | Python | Working
 [Two-sum](https://open.kattis.com/problems/twosum) | [twosum](twosum/Add.py) | Python |  Working
-[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](ultimatebinarywatch/Watch.py) | Python | Working 
+[Ultimate Binary Watch](https://open.kattis.com/problems/ultimatebinarywatch) | [ultimatebinarywatch](ultimatebinarywatch/Watch.py) | Python | Working
 [Ultra-QuickSort](https://open.kattis.com/problems/ultraquicksort) | [ultraquicksort](ultraquicksort/UQS.java) | Java | Not Working
+[Undead or Alive](https://opem.kattis.com/problems/undeadoralive) | [undeadoralive](undeadoralive/Zomb.py) | Python | Working
 [Unique Snowflakes](https://open.kattis.com/problems/snowflakes) | [snowflakes](snowflakes/Flake.java) | Java | Not Working
 [Un-bear-able Zoo](https://open.kattis.com/problems/zoo) | [zoo](zoo/Zoo.java) | Java | Working
 [Volim](https://open.kattis.com/problems/volim) | [volim](volim/Potatoe.java) | Java | Working
